@@ -7,8 +7,11 @@
   "layer": [
     {
       "data": {
-        "url": "data/us-10m.json",
-        "format": {"type": "topojson", "feature": "states"}
+        "url": "https://raw.githubusercontent.com/AnEvilBurrito/FIT3179/main/ne_110m_admin_1_states_provinces.topojson",
+        "format": {
+          "type": "topojson",
+          "feature": "ne_110m_admin_1_states_provinces"
+        }
       },
       "mark": {"type": "geoshape", "fill": "#AAAAAA", "stroke": "white"}
     },
