@@ -1,63 +1,39 @@
 {
-    "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-    "width": 800,
-    "height": 600,
-    "title": "Standard & Poor Listed Companies and their Market Capitalisation in US Mainland",
-    "projection": {
-        "type": "albersUsa"
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "width": 800,
+  "height": 600,
+  "title": "Standard & Poor Listed Companies and their Market Capitalisation in US Mainland",
+  "projection": {"type": "albersUsa"},
+  "layer": [
+    {
+      "data": {
+        "url": "data/us-10m.json",
+        "format": {"type": "topojson", "feature": "states"}
+      },
+      "mark": {"type": "geoshape", "fill": "#AAAAAA", "stroke": "white"}
     },
-    "layer": [
+    {
+      "data": {
+        "url": "https://raw.githubusercontent.com/AnEvilBurrito/FIT3179/main/FinalData.csv"
+      },
+      "encoding": {
+        "longitude": {"field": "Long", "type": "quantitative"},
+        "latitude": {"field": "Lat", "type": "quantitative"}
+      },
+      "layer": [
         {
-            "data": {
-                "url": "data/us-10m.json",
-                "format": {
-                    "type": "topojson",
-                    "feature": "states"
-                }
-            },
-            "mark": {
-                "type": "geoshape",
-                "fill": "#AAAAAA",
-                "stroke": "white"
+          "mark": {"type": "point", "tooltip": {"content": "data"}},
+          "encoding": {
+            "size": {"field": "Market Cap", "type": "quantitative"},
+            "color": {
+              "field": "Market Cap",
+              "type": "quantitative",
+              "scale": {"scheme": "reds"}
             }
-        },
-        {
-            "data": {
-                "url": "https://raw.githubusercontent.com/AnEvilBurrito/FIT3179/main/FinalData.csv"
-            },
-            "encoding": {
-                "longitude": {
-                    "field": "Long",
-                    "type": "quantitative"
-                },
-                "latitude": {
-                    "field": "Lat",
-                    "type": "quantitative"
-                }
-            },
-            "layer": [
-                {
-                    "mark": {
-                        "type": "point",
-                        "tooltip": {
-                            "content": "data"
-                        }
-                    },
-                    "encoding": {
-                        "size": {
-                            "field": "Market Cap",
-                            "type": "quantitative"
-                        },
-                        "color": {
-                            "field": "Market Cap",
-                            "type": "quantitative",
-                            "scale": {
-                                "scheme": "reds"
-                            }
-                        }
-                    }
-                }
-            ]
+          }
         }
-    ]
+      ]
+    }
+  ],
+  "config": {}
 }
