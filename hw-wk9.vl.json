@@ -13,7 +13,7 @@
           "feature": "ne_110m_admin_1_states_provinces"
         }
       },
-      "mark": {"type": "geoshape", "fill": "#AAAAAA", "stroke": "white"}
+      "mark": {"type": "geoshape", "fill": "#999999", "stroke": "white"}
     },
     {
       "data": {
@@ -27,11 +27,15 @@
         {
           "mark": {"type": "point", "tooltip": {"content": "data"}},
           "encoding": {
-            "size": {"field": "Market Cap", "type": "quantitative"},
+            "size": {
+              "field": "Market Cap",
+              "type": "quantitative",
+              "scale": {"range": [100, 1000, 10000]}
+            },
             "color": {
               "field": "Market Cap",
               "type": "quantitative",
-              "scale": {"scheme": "reds"}
+              "scale": {"scheme": "greens"}
             }
           }
         }
