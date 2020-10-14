@@ -1,5 +1,8 @@
 # FIT3179
 
+blog link:
+
+https://anevilburrito.github.io/FIT3179/
 
 data source for tickers: 
 
