@@ -1,0 +1,497 @@
+,Symbol,Original Location,Converted Location,Lat,Long,Sector,Industry,Market Cap
+0,MMM,"St. Paul, Minnesota","St. Paul, Ramsey County, Minnesota, United States of America",44.9504037,-93.1015026,Industrials,Industrial Conglomerates,92370000000
+1,ABT,"North Chicago, Illinois","North Chicago, Illinois, 60064, United States of America",42.325578,-87.8411818,Health Care,Health Care Equipment,188560000000
+2,ABBV,"North Chicago, Illinois","North Chicago, Illinois, 60064, United States of America",42.325578,-87.8411818,Health Care,Pharmaceuticals,151990000000
+3,ABMD,"Danvers, Massachusetts","Danvers, Essex County, Massachusetts, United States of America",42.5750946,-70.9300507,Health Care,Health Care Equipment,11800000000
+4,ACN,"Dublin, Ireland","Dublin, County Dublin, Leinster, Ireland",53.3497645,-6.2602732,Information Technology,IT Consulting & Other Services,141420000000
+5,ATVI,"Santa Monica, California","Santa Monica, Los Angeles County, California, United States of America",34.0250724,-118.4965129,Communication Services,Interactive Home Entertainment,60440000000
+6,ADBE,"San Jose, California","San Jose, Santa Clara County, California, United States of America",37.3361905,-121.8905833,Information Technology,Application Software,229780000000
+7,AMD,"Santa Clara, California","Santa Clara County, California, United States of America",37.2333253,-121.6846349,Information Technology,Semiconductors,96040000000
+8,AAP,"Raleigh, North Carolina","Raleigh, Wake County, North Carolina, United States of America",35.7803977,-78.6390989,Consumer Discretionary,Automotive Retail,10750000000
+9,AES,"Arlington, Virginia","Arlington, Arlington County, Virginia, United States of America",38.8903961,-77.0841585,Utilities,Independent Power Producers & Energy Traders,12340000000
+10,AFL,"Columbus, Georgia","Columbus, Muscogee County, Georgia, United States of America",32.4609764,-84.9877094,Financials,Life & Health Insurance,26290000000
+11,A,"Santa Clara, California","Santa Clara County, California, United States of America",37.2333253,-121.6846349,Health Care,Health Care Equipment,30830000000
+12,APD,"Allentown, Pennsylvania","Allentown, Lehigh County, Pennsylvania, United States of America",40.6022059,-75.4712794,Materials,Industrial Gases,65390000000
+13,AKAM,"Cambridge, Massachusetts","Cambridge, Middlesex County, Massachusetts, United States of America",42.3750997,-71.1056157,Information Technology,Internet Services & Infrastructure,17670000000
+14,ALK,"Seattle, Washington","Seattle, King County, Washington, United States of America",47.6038321,-122.3300624,Industrials,Airlines,4640000000
+15,ALB,"Charlotte, North Carolina","Charlotte, Mecklenburg County, North Carolina, United States of America",35.2272,-80.843083,Materials,Specialty Chemicals,9500000000
+16,ARE,"Pasadena, California","Pasadena, Los Angeles County, California, United States of America",34.1476452,-118.1444779,Real Estate,Office REITs,20770000000
+17,ALXN,"Boston, Massachusetts","Boston, Suffolk County, Massachusetts, United States of America",42.3602534,-71.0582912,Health Care,Biotechnology,24450000000
+18,ALGN,"San Jose, California","San Jose, Santa Clara County, California, United States of America",37.3361905,-121.8905833,Health Care,Health Care Supplies,24810000000
+19,ALLE,"Dublin, Ireland","Dublin, County Dublin, Leinster, Ireland",53.3497645,-6.2602732,Industrials,Building Products,9120000000
+20,LNT,"Madison, Wisconsin","Madison, Dane, Wisconsin, United States of America",43.074761,-89.3837613,Utilities,Electric Utilities,13250000000
+21,ALL,"Northfield Township, Illinois","Northfield Township, Cook County, Illinois, United States of America",42.10910525,-87.82931879947347,Financials,Property & Casualty Insurance,29050000000
+22,GOOGL,"Mountain View, California","Mountain View, Santa Clara County, California, United States of America",37.3893889,-122.0832101,Communication Services,Interactive Media & Services,990760000000
+23,GOOG,"Mountain View, California","Mountain View, Santa Clara County, California, United States of America",37.3893889,-122.0832101,Communication Services,Interactive Media & Services,991220000000
+24,MO,"Richmond, Virginia","Richmond, Richmond City, Virginia, 23298, United States of America",37.5385087,-77.43428,Consumer Staples,Tobacco,72420000000
+25,AMZN,"Seattle, Washington","Seattle, King County, Washington, United States of America",47.6038321,-122.3300624,Consumer Discretionary,Internet & Direct Marketing Retail,1565000000000
+26,AMCR,"Warmley, Bristol, United Kingdom","Warmley Forest Park, Bristol & Bath Railway Path, Caxton Business Park, Siston, Warmley, South Gloucestershire, South West England, England, BS30, United Kingdom",51.4629311,-2.4731406778599054,Materials,Paper Packaging,17320000000
+27,AEE,"St. Louis, Missouri","St. Louis, City of Saint Louis, Missouri, United States of America",38.6268039,-90.1994097,Utilities,Multi-Utilities,19720000000
+28,AAL,"Fort Worth, Texas","Fort Worth, Tarrant County, Texas, United States of America",32.753177,-97.3327459,Industrials,Airlines,6550000000
+29,AEP,"Columbus, Ohio","Columbus, Franklin County, Ohio, United States of America",39.9622601,-83.0007065,Utilities,Electric Utilities,42320000000
+30,AXP,"New York, New York","New York, United States of America",40.7127281,-74.0060152,Financials,Consumer Finance,81810000000
+31,AIG,"New York, New York","New York, United States of America",40.7127281,-74.0060152,Financials,Property & Casualty Insurance,24310000000
+32,AMT,"Boston, Massachusetts","Boston, Suffolk County, Massachusetts, United States of America",42.3602534,-71.0582912,Real Estate,Specialized REITs,107920000000
+33,AWK,"Camden, New Jersey","Camden, Camden County, New Jersey, United States of America",39.9448402,-75.1198911,Utilities,Water Utilities,26990000000
+34,AMP,"Minneapolis, Minnesota","Minneapolis, Hennepin County, Minnesota, United States of America",44.9772995,-93.2654692,Financials,Asset Management & Custody Banks,19110000000
+35,ABC,"Chesterbrook, Pennsylvania","Chesterbrook, Howellville, Tredyffrin Township, Chester County, Pennsylvania, United States of America",40.0726519,-75.45624634111579,Health Care,Health Care Distributors,19470000000
+36,AME,"Berwyn, Pennsylvania","Berwyn, Chester County, Pennsylvania, 19312, United States of America",40.0448306,-75.4388053,Industrials,Electrical Components & Equipment,23140000000
+37,AMGN,"Thousand Oaks, California","Thousand Oaks, Ventura County, California, United States of America",34.17142715,-118.91058772974445,Health Care,Biotechnology,143740000000
+38,APH,"Wallingford, Connecticut","Wallingford, Connecticut, New Haven County, Connecticut, 06492, United States of America",41.4570418,-72.8231552,Information Technology,Electronic Components,32610000000
+39,ADI,"Norwood, Massachusetts","Norwood, Norfolk County, Massachusetts, United States of America",42.194543,-71.1994976,Information Technology,Semiconductors,42130000000
+40,ANSS,"Canonsburg, Pennsylvania","Canonsburg, Washington County, Pennsylvania, United States of America",40.2625702,-80.1872797,Information Technology,Application Software,27590000000
+41,ANTM,"Indianapolis, Indiana","Indianapolis, Marion, Indiana, United States of America",39.7683331,-86.1583502,Health Care,Managed Health Care,69170000000
+42,AON,"London, United Kingdom","London, Greater London, England, United Kingdom",51.5073219,-0.1276474,Financials,Insurance Brokers,47610000000
+43,AOS,"Milwaukee, Wisconsin","Milwaukee, Milwaukee County, Wisconsin, United States of America",43.0349931,-87.922497,Industrials,Building Products,8640000000
+44,APA,"Houston, Texas","Houston, Harris County, Texas, United States of America",29.7589382,-95.3676974,Energy,Oil & Gas Exploration & Production,3680000000
+45,AIV,"Denver, Colorado","Denver, Denver County, Colorado, United States of America",39.7392364,-104.9848623,Real Estate,Residential REITs,5400000000
+46,AAPL,"Cupertino, California","Cupertino, Santa Clara County, California, United States of America",37.3228934,-122.0322895,Information Technology,"Technology Hardware, Storage & Peripherals",1933000000000
+47,AMAT,"Santa Clara, California","Santa Clara County, California, United States of America",37.2333253,-121.6846349,Information Technology,Semiconductor Equipment,53160000000
+48,APTV,"Dublin, Ireland","Dublin, County Dublin, Leinster, Ireland",53.3497645,-6.2602732,Consumer Discretionary,Auto Parts & Equipment,25260000000
+49,ADM,"Chicago, Illinois","Chicago, Cook County, Illinois, United States of America",41.8755616,-87.6244212,Consumer Staples,Agricultural Products,25970000000
+50,ANET,"Santa Clara, California","Santa Clara County, California, United States of America",37.2333253,-121.6846349,Information Technology,Communications Equipment,16340000000
+51,AJG,"Itasca, Illinois","Itasca, DuPage County, Illinois, 60143, United States of America",41.9751722,-88.0067509,Financials,Insurance Brokers,20340000000
+52,AIZ,"New York, New York","New York, United States of America",40.7127281,-74.0060152,Financials,Multi-line Insurance,7360000000
+53,T,"Dallas, Texas","Dallas, Dallas County, Texas, United States of America",32.7762719,-96.7968559,Communication Services,Integrated Telecommunication Services,204350000000
+54,ATO,"Dallas, Texas","Dallas, Dallas County, Texas, United States of America",32.7762719,-96.7968559,Utilities,Gas Utilities,11850000000
+55,ADSK,"San Rafael, California","San Rafael, Marin County, California, United States of America",37.9735346,-122.5310874,Information Technology,Application Software,49460000000
+56,ADP,"Roseland, New Jersey","Roseland, Essex County, New Jersey, 07068, United States of America",40.8206555,-74.2937595,Information Technology,Internet Services & Infrastructure,59610000000
+57,AZO,"Memphis, Tennessee","Memphis, Shelby County, Tennessee, United States of America",35.1490215,-90.0516285,Consumer Discretionary,Specialty Stores,27510000000
+58,AVY,"Glendale, California","Glendale, Los Angeles County, California, United States of America",34.1469416,-118.2478471,Materials,Paper Packaging,10380000000
+59,BKR,"Houston, Texas","Houston, Harris County, Texas, United States of America",29.7589382,-95.3676974,Energy,Oil & Gas Equipment & Services,13080000000
+60,BLL,"Broomfield, Colorado","Broomfield, City and County of Broomfield, Colorado, 80020, United States of America",39.9203827,-105.0691464,Materials,Metal & Glass Containers,27000000000
+61,BAC,"Charlotte, North Carolina","Charlotte, Mecklenburg County, North Carolina, United States of America",35.2272,-80.843083,Financials,Diversified Banks,209760000000
+62,BK,"New York, New York","New York, United States of America",40.7127281,-74.0060152,Financials,Asset Management & Custody Banks,30780000000
+63,BAX,"Deerfield, Illinois","Deerfield, Illinois, United States of America",42.1711365,-87.8445119,Health Care,Health Care Equipment,39910000000
+64,BDX,"Franklin Lakes, New Jersey","Franklin Lakes, Bergen County, New Jersey, 07417, United States of America",41.0167639,-74.2057012,Health Care,Health Care Equipment,67440000000
+65,BRK.B,"Omaha, Nebraska","Omaha, Douglas County, Nebraska, United States of America",41.2587459,-95.9383758,Financials,Multi-Sector Holdings,504720000000
+66,BBY,"Richfield, Minnesota","Richfield, Hennepin County, Minnesota, United States of America",44.8766431,-93.2877877,Consumer Discretionary,Computer & Electronics Retail,29100000000
+67,BIO,"Hercules, California","Hercules, Contra Costa County, California, 94547, United States of America",38.0171441,-122.2885808,Health Care,Life Sciences Tools & Services,15090000000
+68,BIIB,"Cambridge, Massachusetts","Cambridge, Middlesex County, Massachusetts, United States of America",42.3750997,-71.1056157,Health Care,Biotechnology,43950000000
+69,BLK,"New York, New York","New York, United States of America",40.7127281,-74.0060152,Financials,Asset Management & Custody Banks,86930000000
+70,BA,"Chicago, Illinois","Chicago, Cook County, Illinois, United States of America",41.8755616,-87.6244212,Industrials,Aerospace & Defense,94870000000
+71,BKNG,"Norwalk, Connecticut","Norwalk, Fairfield County, Connecticut, United States of America",41.1175966,-73.4078968,Consumer Discretionary,Internet & Direct Marketing Retail,70050000000
+72,BWA,"Auburn Hills, Michigan","Auburn Hills, Oakland County, Michigan, United States of America",42.6875323,-83.2341028,Consumer Discretionary,Auto Parts & Equipment,8120000000
+73,BXP,"Boston, Massachusetts","Boston, Suffolk County, Massachusetts, United States of America",42.3602534,-71.0582912,Real Estate,Office REITs,13270000000
+74,BMY,"New York, New York","New York, United States of America",40.7127281,-74.0060152,Health Care,Health Care Distributors,132350000000
+75,AVGO,"San Jose, California","San Jose, Santa Clara County, California, United States of America",37.3361905,-121.8905833,Information Technology,Semiconductors,144340000000
+76,BR,"Lake Success, New York","Lake Success, North Hempstead, Nassau County, New York, United States of America",40.7706572,-73.7176312,Information Technology,Data Processing & Outsourced Services,15360000000
+77,BF.B,"Louisville, Kentucky","Louisville, Jefferson County, Kentucky, United States of America",38.2542376,-85.759407,Consumer Staples,Distillers & Vintners,35070000000
+78,CHRW,"Eden Prairie, Minnesota","Eden Prairie, Hennepin County, Minnesota, United States of America",44.8546856,-93.470786,Industrials,Air Freight & Logistics,13600000000
+79,COG,"Houston, Texas","Houston, Harris County, Texas, United States of America",29.7589382,-95.3676974,Energy,Oil & Gas Exploration & Production,6780000000
+80,CDNS,"San Jose, California","San Jose, Santa Clara County, California, United States of America",37.3361905,-121.8905833,Information Technology,Application Software,29360000000
+81,CPB,"Camden, New Jersey","Camden, Camden County, New Jersey, United States of America",39.9448402,-75.1198911,Consumer Staples,Packaged Foods & Meats,14750000000
+82,COF,"Tysons Corner, Virginia","Tysons, Fairfax County, Virginia, United States of America",38.918592,-77.2314723,Financials,Consumer Finance,34220000000
+83,CAH,"Dublin, Ohio","Dublin, Franklin County, Ohio, United States of America",40.0992294,-83.1140771,Health Care,Health Care Distributors,13580000000
+84,KMX,"Richmond, Virginia","Richmond, Richmond City, Virginia, 23298, United States of America",37.5385087,-77.43428,Consumer Discretionary,Specialty Stores,15690000000
+85,CCL,"Miami, Florida","Miami, Miami-Dade County, Florida, United States of America",25.7742658,-80.1936589,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",13380000000
+86,CARR,"Palm Beach Gardens, Florida","Palm Beach Gardens, Palm Beach County, Florida, United States of America",26.8418256,-80.13590694666684,Industrials,Building Products,27050000000
+87,CTLT,"Somerset, New Jersey","Somerset, Franklin Township, Somerset County, New Jersey, 08873, United States of America",40.5012385,-74.48547748517902,Health Care,Pharmaceuticals,14130000000
+88,CAT,"Deerfield, Illinois","Deerfield, Illinois, United States of America",42.1711365,-87.8445119,Industrials,Construction Machinery & Heavy Trucks,81190000000
+89,CBOE,"Chicago, Illinois","Chicago, Cook County, Illinois, United States of America",41.8755616,-87.6244212,Financials,Financial Exchanges & Data,9500000000
+90,CBRE,"Los Angeles, California","Los Angeles, Los Angeles County, California, United States of America",34.0536909,-118.2427666,Real Estate,Real Estate Services,16120000000
+91,CDW,"Lincolnshire, Illinois","Lincolnshire, Illinois, United States of America",42.1900249,-87.9084039,Information Technology,Technology Distributors,18460000000
+92,CE,"Irving, Texas","Irving, Dallas County, Texas, United States of America",32.8295183,-96.9442177,Materials,Specialty Chemicals,12810000000
+93,CNC,"St. Louis, Missouri","St. Louis, City of Saint Louis, Missouri, United States of America",38.6268039,-90.1994097,Health Care,Managed Health Care,34760000000
+94,CNP,"Houston, Texas","Houston, Harris County, Texas, United States of America",29.7589382,-95.3676974,Utilities,Multi-Utilities,10860000000
+95,CERN,"North Kansas City, Missouri","North Kansas City, Clay County, Missouri, United States of America",39.1432057,-94.5733988,Health Care,Health Care Technology,21740000000
+96,CF,"Deerfield, Illinois","Deerfield, Illinois, United States of America",42.1711365,-87.8445119,Materials,Fertilizers & Agricultural Chemicals,6540000000
+97,SCHW,"San Francisco, California","San Francisco, San Francisco City and County, California, United States of America",37.7790262,-122.4199061,Financials,Investment Banking & Brokerage,48540000000
+98,CHTR,"Stamford, Connecticut","Stamford, Fairfield County, Connecticut, United States of America",41.0534302,-73.5387341,Communication Services,Cable & Satellite,127090000000
+99,CVX,"San Ramon, California","San Ramon, Contra Costa County, California, United States of America",37.7648021,-121.9544387,Energy,Integrated Oil & Gas,132930000000
+100,CMG,"Newport Beach, California","Newport Beach, Orange County, California, United States of America",33.6170092,-117.9294401,Consumer Discretionary,Restaurants,35090000000
+101,CB,"Zurich, Switzerland","Zürich, Bezirk Zürich, Zürich, Switzerland",47.3723941,8.5423328,Financials,Property & Casualty Insurance,52610000000
+102,CHD,"Ewing, New Jersey","Ewing, Ewing Township, Mercer County, New Jersey, 08628, United States of America",40.2688105,-74.8006895,Consumer Staples,Household Products,22550000000
+103,CI,"Bloomfield, Connecticut","Bloomfield, Hartford County, Connecticut, 06002, United States of America",41.826488,-72.7300945,Health Care,Managed Health Care,62410000000
+104,CINF,"Fairfield, Ohio","Fairfield County, Ohio, United States of America",39.7886111,-82.6418883,Financials,Property & Casualty Insurance,12510000000
+105,CTAS,"Mason, Ohio","Mason, Warren County, Ohio, 45040, United States of America",39.3600586,-84.309939,Industrials,Diversified Support Services,35360000000
+106,CSCO,"San Jose, California","San Jose, Santa Clara County, California, United States of America",37.3361905,-121.8905833,Information Technology,Communications Equipment,162010000000
+107,C,"New York, New York","New York, United States of America",40.7127281,-74.0060152,Financials,Diversified Banks,90890000000
+108,CFG,"Providence, Rhode Island","Providence, Providence County, Rhode Island, United States of America",41.8239891,-71.4128343,Financials,Regional Banks,11190000000
+109,CTXS,"Fort Lauderdale, Florida","Fort Lauderdale, Broward County, Florida, United States of America",26.1223084,-80.1433786,Information Technology,Application Software,16660000000
+110,CLX,"Oakland, California","Oakland, Alameda County, California, United States of America",37.8044557,-122.2713563,Consumer Staples,Household Products,26410000000
+111,CME,"Chicago, Illinois","Chicago, Cook County, Illinois, United States of America",41.8755616,-87.6244212,Financials,Financial Exchanges & Data,60430000000
+112,CMS,"Jackson, Michigan","Jackson County, Michigan, United States of America",42.2416466,-84.425589,Utilities,Multi-Utilities,17650000000
+113,KO,"Atlanta, Georgia","Atlanta, Georgia, United States of America",33.7490987,-84.3901849,Consumer Staples,Soft Drinks,212020000000
+114,CTSH,"Teaneck, New Jersey","Teaneck Township, Bergen County, New Jersey, 07666, United States of America",40.8860164,-74.0072568,Information Technology,IT Consulting & Other Services,37340000000
+115,CL,"New York, New York","New York, United States of America",40.7127281,-74.0060152,Consumer Staples,Household Products,66360000000
+116,CMCSA,"Philadelphia, Pennsylvania","Philadelphia, Philadelphia County, Pennsylvania, United States of America",39.9527237,-75.1635262,Communication Services,Cable & Satellite,209640000000
+117,CMA,"Dallas, Texas","Dallas, Dallas County, Texas, United States of America",32.7762719,-96.7968559,Financials,Diversified Banks,5470000000
+118,CAG,"Chicago, Illinois","Chicago, Cook County, Illinois, United States of America",41.8755616,-87.6244212,Consumer Staples,Packaged Foods & Meats,18020000000
+119,CXO,"Midland, Texas","Midland, Midland County, Texas, United States of America",31.9973662,-102.0779482,Energy,Oil & Gas Exploration & Production,8470000000
+120,COP,"Houston, Texas","Houston, Harris County, Texas, United States of America",29.7589382,-95.3676974,Energy,Oil & Gas Exploration & Production,35470000000
+121,ED,"New York, New York","New York, United States of America",40.7127281,-74.0060152,Utilities,Electric Utilities,26680000000
+122,STZ,"Victor, New York","Victor, Victor Town, Ontario County, New York, United States of America",42.9825634,-77.4088794,Consumer Staples,Distillers & Vintners,35870000000
+123,COO,"San Ramon, California","San Ramon, Contra Costa County, California, United States of America",37.7648021,-121.9544387,Health Care,Health Care Supplies,17890000000
+124,CPRT,"Dallas, Texas","Dallas, Dallas County, Texas, United States of America",32.7762719,-96.7968559,Industrials,Diversified Support Services,25330000000
+125,GLW,"Corning, New York","Corning, Steuben County, New York, United States of America",42.1435257,-77.0543408,Information Technology,Electronic Components,24990000000
+126,CTVA,"Wilmington, Delaware","Wilmington, New Castle County, Delaware, United States of America",39.7459468,-75.546589,Materials,Fertilizers & Agricultural Chemicals,21990000000
+127,COST,"Issaquah, Washington","Issaquah, King County, Washington, United States of America",47.5348778,-122.0432974,Consumer Staples,Hypermarkets & Super Centers,156650000000
+128,CCI,"Houston, Texas","Houston, Harris County, Texas, United States of America",29.7589382,-95.3676974,Real Estate,Specialized REITs,70760000000
+129,CSX,"Jacksonville, Florida","Jacksonville, Duval County, Florida, United States of America",30.3321838,-81.655651,Industrials,Railroads,59020000000
+130,CMI,"Columbus, Indiana","Columbus, Bartholomew County, Indiana, 47201, United States of America",39.2014405,-85.9213796,Industrials,Industrial Machinery,31060000000
+131,CVS,"Woonsocket, Rhode Island","Woonsocket, Providence County, Rhode Island, 02895, United States of America",42.0028761,-71.5147839,Health Care,Health Care Services,75680000000
+132,DHI,"Fort Worth, Texas","Fort Worth, Tarrant County, Texas, United States of America",32.753177,-97.3327459,Consumer Discretionary,Homebuilding,28330000000
+133,DHR,"Washington, D.C.","Washington, District of Columbia, 20230, United States of America",38.8949924,-77.0365581,Health Care,Health Care Equipment,150750000000
+134,DRI,"Orlando, Florida","Orlando, Orange County, Florida, United States of America",28.5421109,-81.3790304,Consumer Discretionary,Restaurants,13560000000
+135,DVA,"Denver, Colorado","Denver, Denver County, Colorado, United States of America",39.7392364,-104.9848623,Health Care,Health Care Facilities,10280000000
+136,DE,"Moline, Illinois","Moline, Rock Island County, Illinois, 61265, United States of America",41.5067003,-90.5151342,Industrials,Agricultural & Farm Machinery,70440000000
+137,DAL,"Atlanta, Georgia","Atlanta, Georgia, United States of America",33.7490987,-84.3901849,Industrials,Airlines,20250000000
+138,XRAY,"Charlotte, North Carolina","Charlotte, Mecklenburg County, North Carolina, United States of America",35.2272,-80.843083,Health Care,Health Care Supplies,9540000000
+139,DVN,"Oklahoma City, Oklahoma","Oklahoma City, Oklahoma County, Oklahoma, United States of America",35.4729886,-97.5170536,Energy,Oil & Gas Exploration & Production,3670000000
+140,DXCM,"San Diego, California","San Diego, San Diego County, California, United States of America",32.7174209,-117.1627714,Health Care,Health Care Equipment,36820000000
+141,FANG,"Midland, Texas","Midland, Midland County, Texas, United States of America",31.9973662,-102.0779482,Energy,Oil & Gas Exploration & Production,4810000000
+142,DLR,"San Francisco, California","San Francisco, San Francisco City and County, California, United States of America",37.7790262,-122.4199061,Real Estate,Specialized REITs,41630000000
+143,DFS,"Riverwoods, Illinois","Riverwoods, Illinois, United States of America",42.1676068,-87.8970986,Financials,Consumer Finance,18670000000
+144,DISCA,"Silver Spring, Maryland","Silver Spring, Montgomery County, Maryland, United States of America",38.9959461,-77.0276231,Communication Services,Broadcasting,10250000000
+145,DISCK,"Silver Spring, Maryland","Silver Spring, Montgomery County, Maryland, United States of America",38.9959461,-77.0276231,Communication Services,Broadcasting,10270000000
+146,DISH,"Meridian, Colorado","Meridian, Douglas County, Colorado, United States of America",39.531752600000004,-104.84833537674014,Communication Services,Cable & Satellite,15000000000
+147,DG,"Goodlettsville, Tennessee","Goodlettsville, Sumner County, Tennessee, 37072, United States of America",36.334911500000004,-86.70533913302022,Consumer Discretionary,General Merchandise Stores,52680000000
+148,DLTR,"Chesapeake, Virginia","Chesapeake, Virginia, United States of America",36.7183708,-76.2466798,Consumer Discretionary,General Merchandise Stores,21540000000
+149,D,"Richmond, Virginia","Richmond, Richmond City, Virginia, 23298, United States of America",37.5385087,-77.43428,Utilities,Electric Utilities,67040000000
+150,DPZ,"Ann Arbor, Michigan","Ann Arbor, Washtenaw County, Michigan, United States of America",42.2681569,-83.7312291,Consumer Discretionary,Restaurants,17070000000
+151,DOV,"Downers Grove, Illinois","Downers Grove, DuPage County, Illinois, United States of America",41.7936822,-88.0102281,Industrials,Industrial Machinery,15840000000
+152,DOW,"Midland, Michigan","Midland, Midland County, Michigan, United States of America",43.6155825,-84.2472117,Materials,Commodity Chemicals,35060000000
+153,DTE,"Detroit, Michigan","Detroit, Wayne County, Michigan, United States of America",42.3315509,-83.0466403,Utilities,Multi-Utilities,21990000000
+154,DUK,"Charlotte, North Carolina","Charlotte, Mecklenburg County, North Carolina, United States of America",35.2272,-80.843083,Utilities,Electric Utilities,67350000000
+155,DRE,"Indianapolis, Indiana","Indianapolis, Marion, Indiana, United States of America",39.7683331,-86.1583502,Real Estate,Industrial REITs,14240000000
+156,DD,"Midland, Michigan","Midland, Midland County, Michigan, United States of America",43.6155825,-84.2472117,Materials,Specialty Chemicals,40190000000
+157,DXC,"Tysons Corner, Virginia","Tysons, Fairfax County, Virginia, United States of America",38.918592,-77.2314723,Information Technology,IT Consulting & Other Services,4670000000
+158,ETFC,"New York, New York","New York, United States of America",40.7127281,-74.0060152,Financials,Investment Banking & Brokerage,10890000000
+159,EMN,"Kingsport, Tennessee","Kingsport, Sullivan County, Tennessee, United States of America",36.550238,-82.5594293,Materials,Diversified Chemicals,10580000000
+160,ETN,"Dublin, Ireland","Dublin, County Dublin, Leinster, Ireland",53.3497645,-6.2602732,Industrials,Electrical Components & Equipment,41070000000
+161,EBAY,"San Jose, California","San Jose, Santa Clara County, California, United States of America",37.3361905,-121.8905833,Consumer Discretionary,Internet & Direct Marketing Retail,36170000000
+162,ECL,"St. Paul, Minnesota","St. Paul, Ramsey County, Minnesota, United States of America",44.9504037,-93.1015026,Materials,Specialty Chemicals,56520000000
+163,EIX,"Rosemead, California","Rosemead, Los Angeles County, California, 91770, United States of America",34.0676169,-118.0879763,Utilities,Electric Utilities,19480000000
+164,EW,"Irvine, California","Irvine, Orange County, California, United States of America",33.6856969,-117.8259819,Health Care,Health Care Equipment,49000000000
+165,EA,"Redwood City, California","Redwood City, San Mateo County, California, United States of America",37.4863239,-122.2325233,Communication Services,Interactive Home Entertainment,37280000000
+166,EMR,"Ferguson, Missouri","Ferguson, Saint Louis County, Missouri, 63135, United States of America",38.744707,-90.3038975,Industrials,Electrical Components & Equipment,39170000000
+167,ETR,"New Orleans, Louisiana","New Orleans, Orleans Parish, Louisiana, United States of America",29.9499323,-90.0701156,Utilities,Electric Utilities,21280000000
+168,EOG,"Houston, Texas","Houston, Harris County, Texas, United States of America",29.7589382,-95.3676974,Energy,Oil & Gas Exploration & Production,20270000000
+169,EFX,"Atlanta, Georgia","Atlanta, Georgia, United States of America",33.7490987,-84.3901849,Industrials,Research & Consulting Services,19310000000
+170,EQIX,"Redwood City, California","Redwood City, San Mateo County, California, United States of America",37.4863239,-122.2325233,Real Estate,Specialized REITs,68900000000
+171,EQR,"Chicago, Illinois","Chicago, Cook County, Illinois, United States of America",41.8755616,-87.6244212,Real Estate,Residential REITs,20510000000
+172,ESS,"San Mateo, California","San Mateo County, California, United States of America",37.496904,-122.3330573,Real Estate,Residential REITs,13830000000
+173,EL,"New York, New York","New York, United States of America",40.7127281,-74.0060152,Consumer Staples,Personal Products,79020000000
+174,ETSY,"Brooklyn, New York","Brooklyn, Kings County, New York, United States of America",40.6501038,-73.9495823,Consumer Discretionary,Internet & Direct Marketing Retail,16670000000
+175,EVRG,"Kansas City, Missouri","Kansas City, Jackson County, Missouri, United States of America",39.100105,-94.5781416,Utilities,Electric Utilities,11790000000
+176,ES,"Springfield, Massachusetts","Springfield, Hampden County, Massachusetts, United States of America",42.1014831,-72.589811,Utilities,Multi-Utilities,29960000000
+177,RE,"Hamilton, Bermuda","Hamilton, City of Hamilton, HM 10, Bermuda",32.2956076,-64.7827048,Financials,Reinsurance,7940000000
+178,EXC,"Chicago, Illinois","Chicago, Cook County, Illinois, United States of America",41.8755616,-87.6244212,Utilities,Multi-Utilities,35020000000
+179,EXPE,"Seattle, Washington","Seattle, King County, Washington, United States of America",47.6038321,-122.3300624,Consumer Discretionary,Internet & Direct Marketing Retail,13010000000
+180,EXPD,"Seattle, Washington","Seattle, King County, Washington, United States of America",47.6038321,-122.3300624,Industrials,Air Freight & Logistics,15030000000
+181,EXR,"Salt Lake City, Utah","Salt Lake City, Salt Lake County, Utah, United States of America",40.7596198,-111.8867975,Real Estate,Specialized REITs,14550000000
+182,XOM,"Irving, Texas","Irving, Dallas County, Texas, United States of America",32.8295183,-96.9442177,Energy,Integrated Oil & Gas,139450000000
+183,FFIV,"Seattle, Washington","Seattle, King County, Washington, United States of America",47.6038321,-122.3300624,Information Technology,Communications Equipment,7490000000
+184,FB,"Menlo Park, California","Menlo Park, San Mateo County, California, United States of America",37.4519671,-122.1779927,Communication Services,Interactive Media & Services,740520000000
+185,FAST,"Winona, Minnesota","Winona County, Minnesota, United States of America",43.9582272,-91.7807784,Industrials,Building Products,25550000000
+186,FRT,"Rockville, Maryland","Rockville, Montgomery County, Maryland, United States of America",39.0840054,-77.1527573,Real Estate,Retail REITs,5930000000
+187,FDX,"Memphis, Tennessee","Memphis, Shelby County, Tennessee, United States of America",35.1490215,-90.0516285,Industrials,Air Freight & Logistics,67010000000
+188,FIS,"Jacksonville, Florida","Jacksonville, Duval County, Florida, United States of America",30.3321838,-81.655651,Information Technology,Data Processing & Outsourced Services,89940000000
+189,FITB,"Cincinnati, Ohio","Cincinnati, Hamilton County, Ohio, United States of America",39.1014537,-84.5124602,Financials,Regional Banks,15590000000
+190,FE,"Akron, Ohio","Akron, Summit County, Ohio, United States of America",41.083064,-81.518485,Utilities,Electric Utilities,16000000000
+191,FRC,"San Francisco, California","San Francisco, San Francisco City and County, California, United States of America",37.7790262,-122.4199061,Financials,Regional Banks,19440000000
+192,FISV,"Brookfield, Wisconsin","Brookfield, Waukesha County, Wisconsin, United States of America",43.0605671,-88.1064787,Information Technology,Data Processing & Outsourced Services,68070000000
+193,FLT,"Norcross, Georgia","Norcross, Gwinnett County, Georgia, 30071, United States of America",33.9412127,-84.2135309,Information Technology,Data Processing & Outsourced Services,19710000000
+194,FLIR,"Wilsonville, Oregon","Wilsonville, Clackamas County, Oregon, United States of America",45.3099218,-122.7681602,Information Technology,Electronic Equipment & Instruments,4650000000
+195,FMC,"Philadelphia, Pennsylvania","Philadelphia, Philadelphia County, Pennsylvania, United States of America",39.9527237,-75.1635262,Materials,Fertilizers & Agricultural Chemicals,13420000000
+196,F,"Dearborn, Michigan","Dearborn, Wayne County, Michigan, United States of America",42.3222599,-83.1763145,Consumer Discretionary,Automobile Manufacturers,27410000000
+197,FTNT,"Sunnyvale, California","Sunnyvale, Santa Clara County, California, United States of America",37.3688301,-122.0363496,Information Technology,Systems Software,18830000000
+198,FTV,"Everett, Washington","Everett, Snohomish County, Washington, United States of America",47.9673056,-122.2013998,Industrials,Industrial Machinery,26460000000
+199,FBHS,"Deerfield, Illinois","Deerfield, Illinois, United States of America",42.1711365,-87.8445119,Industrials,Building Products,12090000000
+200,FOXA,"New York, New York","New York, United States of America",40.7127281,-74.0060152,Communication Services,Movies & Entertainment,16820000000
+201,FOX,"New York, New York","New York, United States of America",40.7127281,-74.0060152,Communication Services,Movies & Entertainment,16760000000
+202,BEN,"San Mateo, California","San Mateo County, California, United States of America",37.496904,-122.3330573,Financials,Asset Management & Custody Banks,10170000000
+203,FCX,"Phoenix, Arizona","Phoenix, Maricopa County, Arizona, United States of America",33.4484367,-112.0741417,Materials,Copper,23150000000
+204,GPS,"San Francisco, California","San Francisco, San Francisco City and County, California, United States of America",37.7790262,-122.4199061,Consumer Discretionary,Apparel Retail,6860000000
+205,GRMN,"Schaffhausen, Switzerland","Schaffhausen, Switzerland",47.6960491,8.634513,Consumer Discretionary,Consumer Electronics,18150000000
+206,IT,"Stamford, Connecticut","Stamford, Fairfield County, Connecticut, United States of America",41.0534302,-73.5387341,Information Technology,IT Consulting & Other Services,11180000000
+207,GD,"Falls Church, Virginia","Falls Church City, Virginia, United States of America",38.882334,-77.1710914,Industrials,Aerospace & Defense,40310000000
+208,GE,"Boston, Massachusetts","Boston, Suffolk County, Massachusetts, United States of America",42.3602534,-71.0582912,Industrials,Industrial Conglomerates,55930000000
+209,GIS,"Golden Valley, Minnesota","Golden Valley, Hennepin County, Minnesota, United States of America",44.9861176,-93.3784618,Consumer Staples,Packaged Foods & Meats,38260000000
+210,GM,"Detroit, Michigan","Detroit, Wayne County, Michigan, United States of America",42.3315509,-83.0466403,Consumer Discretionary,Automobile Manufacturers,43590000000
+211,GPC,"Atlanta, Georgia","Atlanta, Georgia, United States of America",33.7490987,-84.3901849,Consumer Discretionary,Specialty Stores,13830000000
+212,GILD,"Foster City, California","Foster City, San Mateo County, California, United States of America",37.5600336,-122.2688522,Health Care,Biotechnology,77940000000
+213,GL,"McKinney, Texas","McKinney, Collin County, Texas, United States of America",33.1976496,-96.6154471,Financials,Life & Health Insurance,8610000000
+214,GPN,"Atlanta, Georgia","Atlanta, Georgia, United States of America",33.7490987,-84.3901849,Information Technology,Data Processing & Outsourced Services,53390000000
+215,GS,"New York, New York","New York, United States of America",40.7127281,-74.0060152,Financials,Investment Banking & Brokerage,68780000000
+216,GWW,"Lake Forest, Illinois","Lake Forest, Illinois, 60045, United States of America",42.2586342,-87.840625,Industrials,Industrial Machinery,19250000000
+217,HAL,"Houston, Texas","Houston, Harris County, Texas, United States of America",29.7589382,-95.3676974,Energy,Oil & Gas Equipment & Services,9940000000
+218,HBI,"Winston-Salem, North Carolina","Winston-Salem, Forsyth County, North Carolina, United States of America",36.0998131,-80.2440518,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",5620000000
+219,HIG,"Hartford, Connecticut","Hartford, Hartford County, Connecticut, United States of America",41.764582,-72.6908547,Financials,Property & Casualty Insurance,13450000000
+220,HAS,"Pawtucket, Rhode Island","Pawtucket, Providence County, Rhode Island, United States of America",41.878711,-71.3825558,Consumer Discretionary,Leisure Products,11370000000
+221,HCA,"Nashville, Tennessee","Nashville-Davidson, Davidson County, Tennessee, United States of America",36.1622296,-86.7743531,Health Care,Health Care Facilities,42950000000
+222,PEAK,"Long Beach, California","Long Beach, Los Angeles County, California, United States of America",33.7690164,-118.1916048,Real Estate,Health Care REITs,15340000000
+223,HSIC,"Melville, New York","Melville, Suffolk County, New York, 11747, United States of America",40.7862225,-73.40799498062145,Health Care,Health Care Distributors,8280000000
+224,HSY,"Hershey, Pennsylvania","Hershey, Dauphin County, Pennsylvania, 17033-1712, United States of America",40.2854881,-76.6506001,Consumer Staples,Packaged Foods & Meats,29730000000
+225,HES,"New York, New York","New York, United States of America",40.7127281,-74.0060152,Energy,Integrated Oil & Gas,11580000000
+226,HPE,"Palo Alto, California","Palo Alto, Santa Clara County, California, United States of America",37.4443293,-122.1598465,Information Technology,"Technology Hardware, Storage & Peripherals",12120000000
+227,HLT,"Tysons Corner, Virginia","Tysons, Fairfax County, Virginia, United States of America",38.918592,-77.2314723,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",24390000000
+228,HOLX,"Marlborough, Massachusetts","Marlborough, Middlesex County, Massachusetts, United States of America",42.3459271,-71.5522874,Health Care,Health Care Equipment,17320000000
+229,HD,"Atlanta, Georgia","Atlanta, Georgia, United States of America",33.7490987,-84.3901849,Consumer Discretionary,Home Improvement Retail,300670000000
+230,HON,"Morristown, New Jersey","Morristown, Morris County, New Jersey, 07960, United States of America",40.7970384,-74.4809492,Industrials,Industrial Conglomerates,116220000000
+231,HRL,"Austin, Minnesota","Austin, Mower County, Minnesota, United States of America",43.6680928,-92.9744896,Consumer Staples,Packaged Foods & Meats,26450000000
+232,HST,"Bethesda, Maryland","Bethesda, Montgomery County, Maryland, United States of America",38.9819845,-77.12423413116392,Real Estate,Hotel & Resort REITs,7960000000
+233,HWM,"Pittsburgh, Pennsylvania","Pittsburgh, Allegheny County, Pennsylvania, United States of America",40.4416941,-79.9900861,Industrials,Aerospace & Defense,7800000000
+234,HPQ,"Palo Alto, California","Palo Alto, Santa Clara County, California, United States of America",37.4443293,-122.1598465,Information Technology,"Technology Hardware, Storage & Peripherals",26220000000
+235,HUM,"Louisville, Kentucky","Louisville, Jefferson County, Kentucky, United States of America",38.2542376,-85.759407,Health Care,Managed Health Care,54020000000
+236,HBAN,"Columbus, Ohio","Columbus, Franklin County, Ohio, United States of America",39.9622601,-83.0007065,Financials,Regional Banks,9490000000
+237,HII,"Newport News, Virginia","Newport News, Newport News City, Virginia, United States of America",36.9786449,-76.4321089,Industrials,Aerospace & Defense,5840000000
+238,IEX,"Lake Forest, Illinois","Lake Forest, Illinois, 60045, United States of America",42.2586342,-87.840625,Industrials,Industrial Machinery,13590000000
+239,IDXX,"Westbrook, Maine","Westbrook, Cumberland County, Maine, 04092, United States of America",43.6770252,-70.3711617,Health Care,Health Care Equipment,32650000000
+240,INFO,"London, United Kingdom","London, Greater London, England, United Kingdom",51.5073219,-0.1276474,Industrials,Research & Consulting Services,31270000000
+241,ITW,"Glenview, Illinois","Glenview, Northfield Township, Cook County, Illinois, United States of America",42.0700662,-87.8114044,Industrials,Industrial Machinery,60660000000
+242,ILMN,"San Diego, California","San Diego, San Diego County, California, United States of America",32.7174209,-117.1627714,Health Care,Life Sciences Tools & Services,45140000000
+243,INCY,"Wilmington, Delaware","Wilmington, New Castle County, Delaware, United States of America",39.7459468,-75.546589,Health Care,Biotechnology,19410000000
+244,IR,"Milwaukee, Wisconsin","Milwaukee, Milwaukee County, Wisconsin, United States of America",43.0349931,-87.922497,Industrials,Industrial Machinery,15050000000
+245,INTC,"Santa Clara, California","Santa Clara County, California, United States of America",37.2333253,-121.6846349,Information Technology,Semiconductors,216950000000
+246,ICE,"Atlanta, Georgia","Atlanta, Georgia, United States of America",33.7490987,-84.3901849,Financials,Financial Exchanges & Data,56880000000
+247,IBM,"Armonk, New York","Armonk, Town of North Castle, Westchester County, New York, 10504, United States of America",41.1330485,-73.71262371614495,Information Technology,IT Consulting & Other Services,107380000000
+248,IP,"Memphis, Tennessee","Memphis, Shelby County, Tennessee, United States of America",35.1490215,-90.0516285,Materials,Paper Packaging,15910000000
+249,IPG,"New York, New York","New York, United States of America",40.7127281,-74.0060152,Communication Services,Advertising,6790000000
+250,IFF,"New York, New York","New York, United States of America",40.7127281,-74.0060152,Materials,Specialty Chemicals,12740000000
+251,INTU,"Mountain View, California","Mountain View, Santa Clara County, California, United States of America",37.3893889,-122.0832101,Information Technology,Application Software,84270000000
+252,ISRG,"Sunnyvale, California","Sunnyvale, Santa Clara County, California, United States of America",37.3688301,-122.0363496,Health Care,Health Care Equipment,81480000000
+253,IVZ,"Atlanta, Georgia","Atlanta, Georgia, United States of America",33.7490987,-84.3901849,Financials,Asset Management & Custody Banks,5440000000
+254,IPGP,"Oxford, Massachusetts","Oxford, Worcester County, Massachusetts, 01540, United States of America",42.1336307,-71.8592889,Information Technology,Electronic Manufacturing Services,8990000000
+255,IQV,"Durham, North Carolina","Durham, Durham County, North Carolina, United States of America",35.996653,-78.9018053,Health Care,Life Sciences Tools & Services,30000000000
+256,IRM,"Boston, Massachusetts","Boston, Suffolk County, Massachusetts, United States of America",42.3602534,-71.0582912,Real Estate,Specialized REITs,7880000000
+257,JKHY,"Monett, Missouri","Monett, Barry County, Missouri, 65708, United States of America",36.9289518,-93.9277149,Information Technology,Data Processing & Outsourced Services,12380000000
+258,J,"Dallas, Texas","Dallas, Dallas County, Texas, United States of America",32.7762719,-96.7968559,Industrials,Construction & Engineering,12270000000
+259,JBHT,"Lowell, Arkansas","Lowell, Benton County, Arkansas, United States of America",36.2553543,-94.1307587,Industrials,Trucking,13450000000
+260,SJM,"Orrville, Ohio","Orrville, Wayne County, Ohio, 44667, United States of America",40.8436664,-81.7640212,Consumer Staples,Packaged Foods & Meats,13290000000
+261,JNJ,"New Brunswick, New Jersey","New Brunswick, Middlesex County, New Jersey, United States of America",40.4862174,-74.4518173,Health Care,Pharmaceuticals,385020000000
+262,JCI,"Cork, Ireland","Cork, Cork City 2019, County Cork, Munster, T12 EE6N, Ireland",51.8979282,-8.4705806,Industrials,Building Products,30950000000
+263,JPM,"New York, New York","New York, United States of America",40.7127281,-74.0060152,Financials,Diversified Banks,298330000000
+264,JNPR,"Sunnyvale, California","Sunnyvale, Santa Clara County, California, United States of America",37.3688301,-122.0363496,Information Technology,Communications Equipment,7070000000
+265,KSU,"Kansas City, Missouri","Kansas City, Jackson County, Missouri, United States of America",39.100105,-94.5781416,Industrials,Railroads,17070000000
+266,K,"Battle Creek, Michigan","Battle Creek, Calhoun County, Michigan, 49015, United States of America",42.3192548,-85.1824269,Consumer Staples,Packaged Foods & Meats,22190000000
+267,KEY,"Cleveland, Ohio","Cleveland, Cuyahoga County, Ohio, United States of America",41.5051613,-81.6934446,Financials,Regional Banks,11930000000
+268,KEYS,"Santa Rosa, California","Santa Rosa, Sonoma County, California, United States of America",38.4404925,-122.7141049,Information Technology,Electronic Equipment & Instruments,18390000000
+269,KMB,"Irving, Texas","Irving, Dallas County, Texas, United States of America",32.8295183,-96.9442177,Consumer Staples,Household Products,50280000000
+270,KIM,"New Hyde Park, New York","New Hyde Park, 2nd Avenue, Hempstead, Nassau County, New York, 11040, United States of America",40.7308451,-73.6805499,Real Estate,Retail REITs,5150000000
+271,KMI,"Houston, Texas","Houston, Harris County, Texas, United States of America",29.7589382,-95.3676974,Energy,Oil & Gas Storage & Transportation,27860000000
+272,KLAC,"Milpitas, California","Milpitas, Santa Clara County, California, United States of America",37.4282724,-121.9066238,Information Technology,Semiconductor Equipment,29840000000
+273,KR,"Cincinnati, Ohio","Cincinnati, Hamilton County, Ohio, United States of America",39.1014537,-84.5124602,Consumer Staples,Food Retail,26380000000
+274,LB,"Columbus, Ohio","Columbus, Franklin County, Ohio, United States of America",39.9622601,-83.0007065,Consumer Discretionary,Apparel Retail,9210000000
+275,LHX,"Melbourne, Florida","Melbourne, Brevard County, Florida, United States of America",28.0836269,-80.6081089,Industrials,Aerospace & Defense,37420000000
+276,LH,"Burlington, North Carolina","Burlington, Alamance County, North Carolina, United States of America",36.0956918,-79.4377991,Health Care,Health Care Services,18310000000
+277,LRCX,"Fremont, California","Fremont, Alameda County, California, United States of America",37.5482697,-121.9885719,Information Technology,Semiconductor Equipment,47870000000
+278,LW,"Eagle, Idaho","Eagle, Ada County, Idaho, 83616, United States of America",43.6954424,-116.3540138,Consumer Staples,Packaged Foods & Meats,9870000000
+279,LVS,"Las Vegas, Nevada","Las Vegas, Clark County, Nevada, United States of America",36.1672559,-115.1485163,Consumer Discretionary,Casinos & Gaming,35250000000
+280,LEG,"Carthage, Missouri","Carthage, Jasper County, Missouri, 64836, United States of America",37.1765141,-94.3103412,Consumer Discretionary,Home Furnishings,5650000000
+281,LDOS,"Reston, Virginia","Reston, Fairfax County, Virginia, United States of America",38.9583737,-77.3579805,Information Technology,IT Consulting & Other Services,12850000000
+282,LEN,"Miami, Florida","Miami, Miami-Dade County, Florida, United States of America",25.7742658,-80.1936589,Consumer Discretionary,Homebuilding,25560000000
+283,LLY,"Indianapolis, Indiana","Indianapolis, Marion, Indiana, United States of America",39.7683331,-86.1583502,Health Care,Pharmaceuticals,138890000000
+284,LNC,"Radnor, Pennsylvania","Radnor, Delaware County, Pennsylvania, 19080, United States of America",40.0463001,-75.3595487,Financials,Multi-line Insurance,6310000000
+285,LIN,"Guildford, Surrey, United Kingdom","Guildford, Surrey, South East, England, United Kingdom",51.2356068,-0.5732063,Materials,Industrial Gases,121960000000
+286,LYV,"Beverly Hills, California","Beverly Hills, Los Angeles County, California, United States of America",34.0696501,-118.3963062,Communication Services,Movies & Entertainment,11890000000
+287,LKQ,"Chicago, Illinois","Chicago, Cook County, Illinois, United States of America",41.8755616,-87.6244212,Consumer Discretionary,Distributors,8680000000
+288,LMT,"Bethesda, Maryland","Bethesda, Montgomery County, Maryland, United States of America",38.9819845,-77.12423413116392,Industrials,Aerospace & Defense,106390000000
+289,L,"New York, New York","New York, United States of America",40.7127281,-74.0060152,Financials,Multi-line Insurance,9790000000
+290,LOW,"Mooresville, North Carolina","Mooresville, Iredell County, North Carolina, United States of America",35.5848596,-80.8100724,Consumer Discretionary,Home Improvement Retail,125820000000
+291,LYB,"Rotterdam, Netherlands","Rotterdam, 1207, Weena, CS-Kwartier, Centrum, Rotterdam, Zuid-Holland, Nederland, 3013AL, Nederland",51.9228934,4.4631786,Materials,Specialty Chemicals,24120000000
+292,MTB,"Buffalo, New York","Buffalo, Erie County, New York, United States of America",42.8867166,-78.8783922,Financials,Regional Banks,12000000000
+293,MPC,"Findlay, Ohio","Findlay, Hancock County, Ohio, 45840, United States of America",41.0413873,-83.6503982,Energy,Oil & Gas Refining & Marketing,18400000000
+294,MKTX,"New York, New York","New York, United States of America",40.7127281,-74.0060152,Financials,Financial Exchanges & Data,18320000000
+295,MAR,"Bethesda, Maryland","Bethesda, Montgomery County, Maryland, United States of America",38.9819845,-77.12423413116392,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",30890000000
+296,MMC,"New York, New York","New York, United States of America",40.7127281,-74.0060152,Financials,Insurance Brokers,58030000000
+297,MLM,"Raleigh, North Carolina","Raleigh, Wake County, North Carolina, United States of America",35.7803977,-78.6390989,Materials,Construction Materials,14980000000
+298,MAS,"Livonia, Michigan","Livonia, Wayne County, Michigan, United States of America",42.36837,-83.3527097,Industrials,Building Products,14400000000
+299,MA,"Harrison, New York","Harrison, Westchester County, New York, United States of America",40.9689871,-73.71263,Information Technology,Data Processing & Outsourced Services,339190000000
+300,MKC,"Hunt Valley, Maryland","Hunt Valley, 98, Shawan Road, Hunt Valley, Cockeysville, Baltimore County, Maryland, 21030, United States of America",39.4962709,-76.6542571,Consumer Staples,Packaged Foods & Meats,25720000000
+301,MXIM,"San Jose, California","San Jose, Santa Clara County, California, United States of America",37.3361905,-121.8905833,Information Technology,Semiconductors,17750000000
+302,MCD,"Chicago, Illinois","Chicago, Cook County, Illinois, United States of America",41.8755616,-87.6244212,Consumer Discretionary,Restaurants,165690000000
+303,MCK,"Irving, Texas","Irving, Dallas County, Texas, United States of America",32.8295183,-96.9442177,Health Care,Health Care Distributors,23840000000
+304,MDT,"Dublin, Ireland","Dublin, County Dublin, Leinster, Ireland",53.3497645,-6.2602732,Health Care,Health Care Equipment,137060000000
+305,MRK,"Kenilworth, New Jersey","Kenilworth, Union County, New Jersey, 07033, United States of America",40.6760225,-74.289262,Health Care,Pharmaceuticals,204360000000
+306,MET,"New York, New York","New York, United States of America",40.7127281,-74.0060152,Financials,Life & Health Insurance,34160000000
+307,MTD,"Columbus, Ohio","Columbus, Franklin County, Ohio, United States of America",39.9622601,-83.0007065,Health Care,Life Sciences Tools & Services,23180000000
+308,MGM,"Paradise, Nevada","Paradise, Clark County, Nevada, United States of America",36.1150858,-115.1734142,Consumer Discretionary,Casinos & Gaming,10680000000
+309,MCHP,"Chandler, Arizona","Chandler, Maricopa County, Arizona, United States of America",33.3062223,-111.8413317,Information Technology,Semiconductors,26190000000
+310,MU,"Boise, Idaho","Boise, Ada County, Idaho, United States of America",43.6166163,-116.200886,Information Technology,Semiconductors,51720000000
+311,MSFT,"Redmond, Washington","Redmond, King County, Washington, United States of America",47.6694141,-122.1238767,Information Technology,Systems Software,1560000000000
+312,MAA,"Memphis, Tennessee","Memphis, Shelby County, Tennessee, United States of America",35.1490215,-90.0516285,Real Estate,Residential REITs,14150000000
+313,MHK,"Calhoun, Georgia","Calhoun County, Georgia, United States of America",31.5311784,-84.614328,Consumer Discretionary,Home Furnishings,7280000000
+314,TAP,"Denver, Colorado","Denver, Denver County, Colorado, United States of America",39.7392364,-104.9848623,Consumer Staples,Brewers,7430000000
+315,MDLZ,"Chicago, Illinois","Chicago, Cook County, Illinois, United States of America",41.8755616,-87.6244212,Consumer Staples,Packaged Foods & Meats,81220000000
+316,MNST,"Corona, California","Corona, Riverside County, California, United States of America",33.8752945,-117.5664449,Consumer Staples,Soft Drinks,41950000000
+317,MCO,"New York, New York","New York, United States of America",40.7127281,-74.0060152,Financials,Financial Exchanges & Data,55180000000
+318,MS,"New York, New York","New York, United States of America",40.7127281,-74.0060152,Financials,Investment Banking & Brokerage,75640000000
+319,MOS,"Tampa, Florida","Tampa, Hillsborough County, Florida, United States of America",27.9477595,-82.458444,Materials,Fertilizers & Agricultural Chemicals,6940000000
+320,MSI,"Chicago, Illinois","Chicago, Cook County, Illinois, United States of America",41.8755616,-87.6244212,Information Technology,Communications Equipment,26640000000
+321,MSCI,"New York, New York","New York, United States of America",40.7127281,-74.0060152,Financials,Financial Exchanges & Data,29120000000
+322,MYL,"Amsterdam, Netherlands","Amsterdam, Noord-Holland, Nederland",52.3727598,4.8936041,Health Care,Pharmaceuticals,7700000000
+323,NDAQ,"New York, New York","New York, United States of America",40.7127281,-74.0060152,Financials,Financial Exchanges & Data,20290000000
+324,NTAP,"Sunnyvale, California","Sunnyvale, Santa Clara County, California, United States of America",37.3688301,-122.0363496,Information Technology,"Technology Hardware, Storage & Peripherals",9490000000
+325,NFLX,"Los Gatos, California","Los Gatos, Santa Clara County, California, United States of America",37.226611,-121.9746797,Communication Services,Movies & Entertainment,221860000000
+326,NWL,"Atlanta, Georgia","Atlanta, Georgia, United States of America",33.7490987,-84.3901849,Consumer Discretionary,Housewares & Specialties,7370000000
+327,NEM,"Denver, Colorado","Denver, Denver County, Colorado, United States of America",39.7392364,-104.9848623,Materials,Gold,50020000000
+328,NWSA,"New York, New York","New York, United States of America",40.7127281,-74.0060152,Communication Services,Publishing,8360000000
+329,NWS,"New York, New York","New York, United States of America",40.7127281,-74.0060152,Communication Services,Publishing,8350000000
+330,NEE,"Juno Beach, Florida","Juno Beach, Palm Beach County, Florida, United States of America",26.8797819,-80.0533743,Utilities,Multi-Utilities,137670000000
+331,NLSN,"New York, New York","New York, United States of America",40.7127281,-74.0060152,Industrials,Research & Consulting Services,5100000000
+332,NKE,"Washington County, Oregon","Washington County, Oregon, United States of America",45.5601883,-123.0587907,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",197540000000
+333,NI,"Merrillville, Indiana","Merrillville, Lake County, Indiana, United States of America",41.4828144,-87.3328139,Utilities,Multi-Utilities,8480000000
+334,NBL,"Houston, Texas","Houston, Harris County, Texas, United States of America",29.7589382,-95.3676974,Energy,Oil & Gas Exploration & Production,4100000000
+335,NSC,"Norfolk, Virginia","Norfolk, Virginia, 23510, United States of America",36.8462923,-76.2929252,Industrials,Railroads,54250000000
+336,NTRS,"Chicago, Illinois","Chicago, Cook County, Illinois, United States of America",41.8755616,-87.6244212,Financials,Asset Management & Custody Banks,16320000000
+337,NOC,"West Falls Church, Virginia","West Falls Church, Fairfax County, Virginia, United States of America",38.8656969,-77.201138,Industrials,Aerospace & Defense,52340000000
+338,NLOK,"Tempe, Arizona","Tempe, Maricopa County, Arizona, United States of America",33.4255056,-111.9400125,Information Technology,Application Software,12150000000
+339,NCLH,"Miami, Florida","Miami, Miami-Dade County, Florida, United States of America",25.7742658,-80.1936589,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",4770000000
+340,NRG,"Princeton, New Jersey","Princeton, Mercer County, New Jersey, United States of America",40.3492744,-74.6592958,Utilities,Independent Power Producers & Energy Traders,7580000000
+341,NUE,"Charlotte, North Carolina","Charlotte, Mecklenburg County, North Carolina, United States of America",35.2272,-80.843083,Materials,Steel,13900000000
+342,NVDA,"Santa Clara, California","Santa Clara County, California, United States of America",37.2333253,-121.6846349,Information Technology,Semiconductors,322750000000
+343,NVR,"Reston, Virginia","Reston, Fairfax County, Virginia, United States of America",38.9583737,-77.3579805,Consumer Discretionary,Homebuilding,15530000000
+344,ORLY,"Springfield, Missouri","Springfield, Greene County, Missouri, United States of America",37.2166779,-93.2920373,Consumer Discretionary,Specialty Stores,33940000000
+345,OXY,"Houston, Texas","Houston, Harris County, Texas, United States of America",29.7589382,-95.3676974,Energy,Oil & Gas Exploration & Production,9180000000
+346,ODFL,"Thomasville, North Carolina","Thomasville, Davidson County, North Carolina, 27360, United States of America",35.8831786,-80.081817,Industrials,Trucking,21660000000
+347,OMC,"New York, New York","New York, United States of America",40.7127281,-74.0060152,Communication Services,Advertising,11030000000
+348,OKE,"Tulsa, Oklahoma","Tulsa, Tulsa County, Oklahoma, United States of America",36.1556805,-95.9929113,Energy,Oil & Gas Storage & Transportation,11790000000
+349,ORCL,"Redwood Shores, California","Redwood Shores, Redwood City, San Mateo County, California, 94065, United States of America",37.5318804,-122.2480219,Information Technology,Application Software,177130000000
+350,OTIS,"Farmington, Connecticut","Farmington, Hartford County, Connecticut, United States of America",41.7198216,-72.8320435,Industrials,Industrial Machinery,27350000000
+351,PCAR,"Bellevue, Washington","Bellevue, King County, Washington, 98004-4452, United States of America",47.6144219,-122.1923372,Industrials,Construction Machinery & Heavy Trucks,29420000000
+352,PKG,"Lake Forest, Illinois","Lake Forest, Illinois, 60045, United States of America",42.2586342,-87.840625,Materials,Paper Packaging,10280000000
+353,PH,"Cleveland, Ohio","Cleveland, Cuyahoga County, Ohio, United States of America",41.5051613,-81.6934446,Industrials,Industrial Machinery,26700000000
+354,PAYX,"Penfield, New York","Penfield Town, New York, United States of America",43.1301133,-77.4759588,Information Technology,Data Processing & Outsourced Services,28590000000
+355,PAYC,"Oklahoma City, Oklahoma","Oklahoma City, Oklahoma County, Oklahoma, United States of America",35.4729886,-97.5170536,Information Technology,Application Software,19410000000
+356,PYPL,"San Jose, California","San Jose, Santa Clara County, California, United States of America",37.3361905,-121.8905833,Information Technology,Data Processing & Outsourced Services,225170000000
+357,PNR,"Worsley, UK","Worsley, Orton Longueville, Peterborough, City of Peterborough, East of England, England, PE2 5QR, United Kingdom",52.5455577,-0.2904555,Industrials,Industrial Machinery,7620000000
+358,PBCT,"Bridgeport, Connecticut","Bridgeport, Fairfield County, Connecticut, United States of America",41.1670412,-73.2048348,Financials,Thrifts & Mortgage Finance,4470000000
+359,PEP,"Purchase, New York","Purchase, Harrison, Westchester County, New York, 10577, United States of America",41.0409305,-73.7145746,Consumer Staples,Soft Drinks,191160000000
+360,PKI,"Waltham, Massachusetts","Waltham, Middlesex County, Massachusetts, United States of America",42.3756401,-71.2358004,Health Care,Health Care Equipment,13930000000
+361,PRGO,"Dublin, Ireland","Dublin, County Dublin, Leinster, Ireland",53.3497645,-6.2602732,Health Care,Pharmaceuticals,6120000000
+362,PFE,"New York, New York","New York, United States of America",40.7127281,-74.0060152,Health Care,Pharmaceuticals,202160000000
+363,PM,"New York, New York","New York, United States of America",40.7127281,-74.0060152,Consumer Staples,Tobacco,115960000000
+364,PSX,"Houston, Texas","Houston, Harris County, Texas, United States of America",29.7589382,-95.3676974,Energy,Oil & Gas Refining & Marketing,22300000000
+365,PNW,"Phoenix, Arizona","Phoenix, Maricopa County, Arizona, United States of America",33.4484367,-112.0741417,Utilities,Multi-Utilities,8760000000
+366,PXD,"Irving, Texas","Irving, Dallas County, Texas, United States of America",32.8295183,-96.9442177,Energy,Oil & Gas Exploration & Production,14220000000
+367,PNC,"Pittsburgh, Pennsylvania","Pittsburgh, Allegheny County, Pennsylvania, United States of America",40.4416941,-79.9900861,Financials,Regional Banks,47610000000
+368,PPG,"Pittsburgh, Pennsylvania","Pittsburgh, Allegheny County, Pennsylvania, United States of America",40.4416941,-79.9900861,Materials,Specialty Chemicals,29090000000
+369,PPL,"Allentown, Pennsylvania","Allentown, Lehigh County, Pennsylvania, United States of America",40.6022059,-75.4712794,Utilities,Electric Utilities,21690000000
+370,PFG,"Des Moines, Iowa","Des Moines, Polk County, Iowa, United States of America",41.5910641,-93.6037149,Financials,Life & Health Insurance,11270000000
+371,PG,"Cincinnati, Ohio","Cincinnati, Hamilton County, Ohio, United States of America",39.1014537,-84.5124602,Consumer Staples,Personal Products,343870000000
+372,PGR,"Mayfield Village, Ohio","Mayfield, Cuyahoga County, Ohio, United States of America",41.541872,-81.439452,Financials,Property & Casualty Insurance,55170000000
+373,PLD,"San Francisco, California","San Francisco, San Francisco City and County, California, United States of America",37.7790262,-122.4199061,Real Estate,Industrial REITs,76990000000
+374,PRU,"Newark, New Jersey","Newark, Essex County, New Jersey, United States of America",40.735657,-74.1723667,Financials,Life & Health Insurance,25230000000
+375,PEG,"Newark, New Jersey","Newark, Essex County, New Jersey, United States of America",40.735657,-74.1723667,Utilities,Electric Utilities,28300000000
+376,PSA,"Glendale, California","Glendale, Los Angeles County, California, United States of America",34.1469416,-118.2478471,Real Estate,Specialized REITs,40310000000
+377,PHM,"Atlanta, Georgia","Atlanta, Georgia, United States of America",33.7490987,-84.3901849,Consumer Discretionary,Homebuilding,12750000000
+378,PVH,"New York, New York","New York, United States of America",40.7127281,-74.0060152,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",4420000000
+379,QRVO,"Greensboro, North Carolina","Greensboro, Guilford County, North Carolina, United States of America",36.0726355,-79.7919754,Information Technology,Semiconductors,14920000000
+380,PWR,"Houston, Texas","Houston, Harris County, Texas, United States of America",29.7589382,-95.3676974,Industrials,Construction & Engineering,7670000000
+381,QCOM,"San Diego, California","San Diego, San Diego County, California, United States of America",32.7174209,-117.1627714,Information Technology,Semiconductors,130280000000
+382,DGX,"Secaucus, New Jersey","Secaucus, Hudson County, New Jersey, United States of America",40.7899291,-74.0566735,Health Care,Health Care Services,15290000000
+383,RL,"New York, New York","New York, United States of America",40.7127281,-74.0060152,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",5110000000
+384,RJF,"St. Petersburg, Florida","St. Petersburg, Pinellas County, Florida, United States of America",27.7703796,-82.6695085,Financials,Investment Banking & Brokerage,10220000000
+385,RTX,"Waltham, Massachusetts","Waltham, Middlesex County, Massachusetts, United States of America",42.3756401,-71.2358004,Industrials,Aerospace & Defense,90650000000
+386,O,"San Diego, California","San Diego, San Diego County, California, United States of America",32.7174209,-117.1627714,Real Estate,Retail REITs,22030000000
+387,REG,"Jacksonville, Florida","Jacksonville, Duval County, Florida, United States of America",30.3321838,-81.655651,Real Estate,Retail REITs,6820000000
+388,REGN,"Tarrytown, New York","Tarrytown, Town of Greenburgh, Westchester County, New York, 10591, United States of America",41.0762077,-73.8587461,Health Care,Biotechnology,60090000000
+389,RF,"Birmingham, Alabama","Birmingham, Jefferson County, Alabama, United States of America",33.5206824,-86.8024326,Financials,Regional Banks,11470000000
+390,RSG,"Phoenix, Arizona","Phoenix, Maricopa County, Arizona, United States of America",33.4484367,-112.0741417,Industrials,Environmental & Facilities Services,29720000000
+391,RMD,"San Diego, California","San Diego, San Diego County, California, United States of America",32.7174209,-117.1627714,Health Care,Health Care Equipment,24270000000
+392,RHI,"Menlo Park, California","Menlo Park, San Mateo County, California, United States of America",37.4519671,-122.1779927,Industrials,Human Resource & Employment Services,6260000000
+393,ROK,"Milwaukee, Wisconsin","Milwaukee, Milwaukee County, Wisconsin, United States of America",43.0349931,-87.922497,Industrials,Electrical Components & Equipment,25910000000
+394,ROL,"Atlanta, Georgia","Atlanta, Georgia, United States of America",33.7490987,-84.3901849,Industrials,Environmental & Facilities Services,18660000000
+395,ROP,"Sarasota, Florida","Sarasota, Sarasota County, Florida, United States of America",27.3364347,-82.5306527,Industrials,Industrial Conglomerates,41440000000
+396,ROST,"Dublin, California","Dublin, Alameda County, California, United States of America",37.7021521,-121.9357918,Consumer Discretionary,Apparel Retail,34260000000
+397,RCL,"Miami, Florida","Miami, Miami-Dade County, Florida, United States of America",25.7742658,-80.1936589,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",14010000000
+398,SPGI,"New York, New York","New York, United States of America",40.7127281,-74.0060152,Financials,Financial Exchanges & Data,87480000000
+399,CRM,"San Francisco, California","San Francisco, San Francisco City and County, California, United States of America",37.7790262,-122.4199061,Information Technology,Application Software,225540000000
+400,SBAC,"Boca Raton, Florida","Boca Raton, Palm Beach County, Florida, United States of America",26.3586885,-80.0830984,Real Estate,Specialized REITs,35610000000
+401,SLB,"Curaçao, Kingdom of the Netherlands","Curaçao, Nederland",12.1845,-68.9640875031406,Energy,Oil & Gas Equipment & Services,21610000000
+402,STX,"Dublin, Ireland","Dublin, County Dublin, Leinster, Ireland",53.3497645,-6.2602732,Information Technology,"Technology Hardware, Storage & Peripherals",12500000000
+403,SEE,"Charlotte, North Carolina","Charlotte, Mecklenburg County, North Carolina, United States of America",35.2272,-80.843083,Materials,Paper Packaging,6280000000
+404,SRE,"San Diego, California","San Diego, San Diego County, California, United States of America",32.7174209,-117.1627714,Utilities,Multi-Utilities,34860000000
+405,NOW,"Santa Clara, California","Santa Clara County, California, United States of America",37.2333253,-121.6846349,Information Technology,Systems Software,94590000000
+406,SHW,"Cleveland, Ohio","Cleveland, Cuyahoga County, Ohio, United States of America",41.5051613,-81.6934446,Materials,Specialty Chemicals,62730000000
+407,SPG,"Indianapolis, Indiana","Indianapolis, Marion, Indiana, United States of America",39.7683331,-86.1583502,Real Estate,Retail REITs,20860000000
+408,SWKS,"Woburn, Massachusetts","Woburn, Middlesex County, Massachusetts, United States of America",42.4792618,-71.1522766,Information Technology,Semiconductors,24530000000
+409,SLG,"New York, New York","New York, United States of America",40.7127281,-74.0060152,Real Estate,Office REITs,3620000000
+410,SNA,"Kenosha, Wisconsin","Kenosha, Kenosha County, Wisconsin, United States of America",42.5846773,-87.8212263,Industrials,Industrial Machinery,8070000000
+411,SO,"Atlanta, Georgia","Atlanta, Georgia, United States of America",33.7490987,-84.3901849,Utilities,Electric Utilities,59420000000
+412,LUV,"Dallas, Texas","Dallas, Dallas County, Texas, United States of America",32.7762719,-96.7968559,Industrials,Airlines,22860000000
+413,SWK,"New Britain, Connecticut","New Britain, Hartford County, Connecticut, United States of America",41.6612104,-72.7795419,Industrials,Industrial Machinery,26320000000
+414,SBUX,"Seattle, Washington","Seattle, King County, Washington, United States of America",47.6038321,-122.3300624,Consumer Discretionary,Restaurants,101200000000
+415,STT,"Boston, Massachusetts","Boston, Suffolk County, Massachusetts, United States of America",42.3602534,-71.0582912,Financials,Asset Management & Custody Banks,21030000000
+416,STE,"Dublin, Ireland","Dublin, County Dublin, Leinster, Ireland",53.3497645,-6.2602732,Health Care,Health Care Equipment,14690000000
+417,SYK,"Kalamazoo, Michigan","Kalamazoo, Kalamazoo County, Michigan, United States of America",42.291707,-85.5872286,Health Care,Health Care Equipment,78240000000
+418,SIVB,"Santa Clara, California","Santa Clara County, California, United States of America",37.2333253,-121.6846349,Financials,Regional Banks,12720000000
+419,SYF,"Stamford, Connecticut","Stamford, Fairfield County, Connecticut, United States of America",41.0534302,-73.5387341,Financials,Consumer Finance,16030000000
+420,SNPS,"Mountain View, California","Mountain View, Santa Clara County, California, United States of America",37.3893889,-122.0832101,Information Technology,Application Software,32180000000
+421,SYY,"Houston, Texas","Houston, Harris County, Texas, United States of America",29.7589382,-95.3676974,Consumer Staples,Food Distributors,32120000000
+422,TMUS,"Bellevue, Washington","Bellevue, King County, Washington, 98004-4452, United States of America",47.6144219,-122.1923372,Communication Services,Wireless Telecommunication Services,142620000000
+423,TROW,"Baltimore, Maryland","Baltimore, Maryland, United States of America",39.2908816,-76.610759,Financials,Asset Management & Custody Banks,29300000000
+424,TTWO,"New York, New York","New York, United States of America",40.7127281,-74.0060152,Communication Services,Interactive Home Entertainment,18310000000
+425,TPR,"New York, New York","New York, United States of America",40.7127281,-74.0060152,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",4480000000
+426,TGT,"Minneapolis, Minnesota","Minneapolis, Hennepin County, Minnesota, United States of America",44.9772995,-93.2654692,Consumer Discretionary,General Merchandise Stores,79650000000
+427,TEL,"Schaffhausen, Switzerland","Schaffhausen, Switzerland",47.6960491,8.634513,Information Technology,Electronic Manufacturing Services,32460000000
+428,TDY,"Thousand Oaks, California","Thousand Oaks, Ventura County, California, United States of America",34.17142715,-118.91058772974445,Industrials,Aerospace & Defense,11420000000
+429,TFX,"Wayne, Pennsylvania","Wayne, Delaware County, Pennsylvania, 19087-3305, United States of America",40.0440149,-75.3878616,Health Care,Health Care Equipment,15630000000
+430,TER,"North Reading, Massachusetts","North Reading, Middlesex County, Massachusetts, United States of America",42.5750939,-71.0786653,Information Technology,Semiconductor Equipment,13050000000
+431,TXN,"Dallas, Texas","Dallas, Dallas County, Texas, United States of America",32.7762719,-96.7968559,Information Technology,Semiconductors,129230000000
+432,TXT,"Providence, Rhode Island","Providence, Providence County, Rhode Island, United States of America",41.8239891,-71.4128343,Industrials,Aerospace & Defense,8150000000
+433,TMO,"Waltham, Massachusetts","Waltham, Middlesex County, Massachusetts, United States of America",42.3756401,-71.2358004,Health Care,Life Sciences Tools & Services,172110000000
+434,TIF,"New York, New York","New York, United States of America",40.7127281,-74.0060152,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",14090000000
+435,TJX,"Framingham, Massachusetts","Framingham, Middlesex County, Massachusetts, United States of America",42.2792625,-71.416172,Consumer Discretionary,Apparel Retail,69100000000
+436,TSCO,"Brentwood, Tennessee","Brentwood, Williamson County, Tennessee, 37027, United States of America",36.0325687,-86.7825235,Consumer Discretionary,Specialty Stores,16340000000
+437,TT,"Dublin, Ireland","Dublin, County Dublin, Leinster, Ireland",53.3497645,-6.2602732,Industrials,Building Products,29650000000
+438,TDG,"Cleveland, Ohio","Cleveland, Cuyahoga County, Ohio, United States of America",41.5051613,-81.6934446,Industrials,Aerospace & Defense,26320000000
+439,TRV,"New York, New York","New York, United States of America",40.7127281,-74.0060152,Financials,Property & Casualty Insurance,27490000000
+440,TFC,"Charlotte, North Carolina","Charlotte, Mecklenburg County, North Carolina, United States of America",35.2272,-80.843083,Financials,Regional Banks,53880000000
+441,TWTR,"San Francisco, California","San Francisco, San Francisco City and County, California, United States of America",37.7790262,-122.4199061,Communication Services,Interactive Media & Services,36480000000
+442,TYL,"Plano, Texas","Plano, Collin County, Texas, United States of America",33.0136764,-96.6925096,Information Technology,Application Software,14110000000
+443,TSN,"Springdale, Arkansas","Springdale, Washington County, Arkansas, United States of America",36.1867442,-94.1288142,Consumer Staples,Packaged Foods & Meats,21600000000
+444,UDR,"Highlands Ranch, Colorado","Highlands Ranch, Douglas County, Colorado, 80126, United States of America",39.5538771,-104.9694264,Real Estate,Residential REITs,10250000000
+445,ULTA,"Bolingbrook, Illinois","Bolingbrook, Will County, Illinois, United States of America",41.7003302,-88.0717708,Consumer Discretionary,Specialty Stores,12880000000
+446,USB,"Minneapolis, Minnesota","Minneapolis, Hennepin County, Minnesota, United States of America",44.9772995,-93.2654692,Financials,Diversified Banks,55390000000
+447,UAA,"Baltimore, Maryland","Baltimore, Maryland, United States of America",39.2908816,-76.610759,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",5130000000
+448,UA,"Baltimore, Maryland","Baltimore, Maryland, United States of America",39.2908816,-76.610759,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",5130000000
+449,UNP,"Omaha, Nebraska","Omaha, Douglas County, Nebraska, United States of America",41.2587459,-95.9383758,Industrials,Railroads,133290000000
+450,UAL,"Chicago, Illinois","Chicago, Cook County, Illinois, United States of America",41.8755616,-87.6244212,Industrials,Airlines,10480000000
+451,UNH,"Minnetonka, Minnesota","Minnetonka, Hennepin County, Minnesota, United States of America",44.9127229,-93.499059,Health Care,Managed Health Care,296490000000
+452,UPS,"Atlanta, Georgia","Atlanta, Georgia, United States of America",33.7490987,-84.3901849,Industrials,Air Freight & Logistics,144150000000
+453,URI,"Stamford, Connecticut","Stamford, Fairfield County, Connecticut, United States of America",41.0534302,-73.5387341,Industrials,Trading Companies & Distributors,13340000000
+454,UHS,"King of Prussia, Pennsylvania","King of Prussia, Montgomery County, Pennsylvania, United States of America",40.0908111,-75.3832484,Health Care,Health Care Facilities,9270000000
+455,UNM,"Chattanooga, Tennessee","Chattanooga, Hamilton County, Tennessee, United States of America",35.0457219,-85.3094883,Financials,Life & Health Insurance,3600000000
+456,VFC,"Greensboro, North Carolina","Greensboro, Guilford County, North Carolina, United States of America",36.0726355,-79.7919754,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",28260000000
+457,VLO,"San Antonio, Texas","San Antonio, Bexar County, Texas, United States of America",29.4246002,-98.4951405,Energy,Oil & Gas Refining & Marketing,16610000000
+458,VAR,"Palo Alto, California","Palo Alto, Santa Clara County, California, United States of America",37.4443293,-122.1598465,Health Care,Health Care Equipment,15670000000
+459,VTR,"Chicago, Illinois","Chicago, Cook County, Illinois, United States of America",41.8755616,-87.6244212,Real Estate,Health Care REITs,16640000000
+460,VRSN,"Dulles, Virginia","Washington Dulles International Airport, Stonecliff Terrace, Eastgate, Conklin, Eastgate, Loudoun County, Virginia, 20152, United States of America",38.95226625,-77.45342297783296,Information Technology,Internet Services & Infrastructure,23220000000
+461,VRSK,"Jersey City, New Jersey","Jersey City, Hudson County, New Jersey, United States of America",40.7281575,-74.0776417,Industrials,Research & Consulting Services,29570000000
+462,VZ,"New York, New York","New York, United States of America",40.7127281,-74.0060152,Communication Services,Integrated Telecommunication Services,245140000000
+463,VRTX,"Cambridge, Massachusetts","Cambridge, Middlesex County, Massachusetts, United States of America",42.3750997,-71.1056157,Health Care,Biotechnology,67930000000
+464,VIAC,"New York, New York","New York, United States of America",40.7127281,-74.0060152,Communication Services,Movies & Entertainment,7700000000
+465,V,"San Francisco, California","San Francisco, San Francisco City and County, California, United States of America",37.7790262,-122.4199061,Information Technology,Data Processing & Outsourced Services,442290000000
+466,VNO,"New York, New York","New York, United States of America",40.7127281,-74.0060152,Real Estate,Office REITs,6830000000
+467,VMC,"Birmingham, Alabama","Birmingham, Jefferson County, Alabama, United States of America",33.5206824,-86.8024326,Materials,Construction Materials,18120000000
+468,WRB,"Greenwich, Connecticut","Greenwich, Fairfield County, Connecticut, United States of America",41.0264862,-73.6284598,Financials,Property & Casualty Insurance,10910000000
+469,WAB,"Wilmerding, Pennsylvania","Wilmerding, Allegheny County, Pennsylvania, United States of America",40.3909023,-79.8100473,Industrials,Construction Machinery & Heavy Trucks,11940000000
+470,WMT,"Bentonville, Arkansas","Bentonville, Benton County, Arkansas, 72712, United States of America",36.3728538,-94.2088172,Consumer Staples,Hypermarkets & Super Centers,398140000000
+471,WBA,"Deerfield, Illinois","Deerfield, Illinois, United States of America",42.1711365,-87.8445119,Consumer Staples,Drug Retail,31000000000
+472,DIS,"Burbank, California","Burbank, Los Angeles County, California, United States of America",34.1816482,-118.3258554,Communication Services,Movies & Entertainment,221460000000
+473,WM,"Houston, Texas","Houston, Harris County, Texas, United States of America",29.7589382,-95.3676974,Industrials,Environmental & Facilities Services,48110000000
+474,WAT,"Milford, Massachusetts","Milford, Worcester County, Massachusetts, 01757, United States of America",42.1540735,-71.521871,Health Care,Health Care Distributors,12130000000
+475,WEC,"Milwaukee, Wisconsin","Milwaukee, Milwaukee County, Wisconsin, United States of America",43.0349931,-87.922497,Utilities,Electric Utilities,30820000000
+476,WFC,"San Francisco, California","San Francisco, San Francisco City and County, California, United States of America",37.7790262,-122.4199061,Financials,Diversified Banks,98840000000
+477,WELL,"Toledo, Ohio","Toledo, Lucas County, Ohio, United States of America",41.6786754,-83.5127283,Real Estate,Health Care REITs,24180000000
+478,WST,"Exton, Pennsylvania","Exton, Chester County, Pennsylvania, 19341, United States of America",40.0289955,-75.6207651,Health Care,Health Care Supplies,21790000000
+479,WDC,"San Jose, California","San Jose, Santa Clara County, California, United States of America",37.3361905,-121.8905833,Information Technology,"Technology Hardware, Storage & Peripherals",10880000000
+480,WU,"Englewood, Colorado","Englewood, Arapahoe County, Colorado, United States of America",39.6482059,-104.9879641,Information Technology,Data Processing & Outsourced Services,8800000000
+481,WRK,"Atlanta, Georgia","Atlanta, Georgia, United States of America",33.7490987,-84.3901849,Materials,Paper Packaging,9090000000
+482,WY,"Federal Way, Washington","Federal Way, King County, Washington, United States of America",47.313494,-122.3393103,Real Estate,Specialized REITs,21720000000
+483,WHR,"Benton Harbor, Michigan","Benton Harbor, Berrien County, Michigan, United States of America",42.1167065,-86.4541894,Consumer Discretionary,Household Appliances,11480000000
+484,WMB,"Tulsa, Oklahoma","Tulsa, Tulsa County, Oklahoma, United States of America",36.1556805,-95.9929113,Energy,Oil & Gas Storage & Transportation,23170000000
+485,WLTW,"London, United Kingdom","London, Greater London, England, United Kingdom",51.5073219,-0.1276474,Financials,Insurance Brokers,27010000000
+486,WYNN,"Paradise, Nevada","Paradise, Clark County, Nevada, United States of America",36.1150858,-115.1734142,Consumer Discretionary,Casinos & Gaming,7890000000
+487,XEL,"Minneapolis, Minnesota","Minneapolis, Hennepin County, Minnesota, United States of America",44.9772995,-93.2654692,Utilities,Multi-Utilities,37030000000
+488,XRX,"Norwalk, Connecticut","Norwalk, Fairfield County, Connecticut, United States of America",41.1175966,-73.4078968,Information Technology,"Technology Hardware, Storage & Peripherals",4140000000
+489,XLNX,"San Jose, California","San Jose, Santa Clara County, California, United States of America",37.3361905,-121.8905833,Information Technology,Semiconductors,25060000000
+490,XYL,"White Plains, New York","White Plains, Westchester County, New York, United States of America",41.0339862,-73.7629097,Industrials,Industrial Machinery,15190000000
+491,YUM,"Louisville, Kentucky","Louisville, Jefferson County, Kentucky, United States of America",38.2542376,-85.759407,Consumer Discretionary,Restaurants,28680000000
+492,ZBRA,"Lincolnshire, Illinois","Lincolnshire, Illinois, United States of America",42.1900249,-87.9084039,Information Technology,Electronic Equipment & Instruments,15090000000
+493,ZBH,"Warsaw, Indiana","Warsaw, Kosciusko County, Indiana, United States of America",41.2381017,-85.8530544,Health Care,Health Care Equipment,28510000000
+494,ZION,"Salt Lake City, Utah","Salt Lake City, Salt Lake County, Utah, United States of America",40.7596198,-111.8867975,Financials,Regional Banks,4900000000
+495,ZTS,"Florham Park, New Jersey","Florham Park, Morris County, New Jersey, 07932, United States of America",40.787878,-74.3882072,Health Care,Pharmaceuticals,77710000000
