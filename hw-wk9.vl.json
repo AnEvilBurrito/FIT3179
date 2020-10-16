@@ -30,7 +30,7 @@
             "size": {
               "field": "Market Cap",
               "type": "quantitative",
-              "scale": {"range": [100, 1000, 10000]}
+              "scale": {"rangeMax": 2500}
             },
             "color": {
               "field": "Market Cap",
@@ -39,6 +39,9 @@
             }
           }
         }
+      ],
+      "transform": [
+        {"filter": "datum.Long < -69"}
       ]
     }
   ],
