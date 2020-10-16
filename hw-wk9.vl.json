@@ -13,7 +13,25 @@
           "feature": "ne_110m_admin_1_states_provinces"
         }
       },
-      "mark": {"type": "geoshape", "fill": "#999999", "stroke": "white"}
+      "mark": {
+        "type": "geoshape",
+        "fill": "#999999",
+        "stroke": "white"
+      }
+    },
+    {
+      "data": {
+        "graticule": {
+          "step": [
+            15,
+            15
+          ]
+        }
+      },
+      "mark": {
+        "type": "geoshape", 
+        "stroke": "gray"
+      }
     },
     {
       "data": {
