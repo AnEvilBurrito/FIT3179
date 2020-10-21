@@ -2,7 +2,6 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
   "width": 400,
   "height": 300,
-  "title": "Standard & Poor Listed Companies and their Market Capitalisation in US Mainland",
   "projection": {"type": "albersUsa"},
   "layer": [
     {
@@ -48,7 +47,7 @@
             "size": {
               "field": "Market Cap",
               "type": "quantitative",
-              "scale": {"rangeMax": 1200}
+              "scale": {"rangeMax": 500}
             },
             "color": {
               "field": "Market Cap",
