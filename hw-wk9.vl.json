@@ -48,7 +48,7 @@
             "size": {
               "field": "Market Cap",
               "type": "quantitative",
-              "scale": {"rangeMax": 2500}
+              "scale": {"rangeMax": 1200}
             },
             "color": {
               "field": "Market Cap",
