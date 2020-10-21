@@ -2,24 +2,103 @@
     "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
     "width": 400,
     "height": 300,
-    "layer":[
+    "data": {
+      "url": "https://raw.githubusercontent.com/AnEvilBurrito/FIT3179/main/MiniStockData.csv"
+    },
+    "encoding": {
+      "color": {
+        "field": "Symbol",
+        "type": "nominal"
+      }
+    },
+    "layer": [
       {
-        "data": {
-          "url": "https://raw.githubusercontent.com/AnEvilBurrito/FIT3179/main/MiniStockData.csv"
+        "selection": {
+          "stock": {
+            "type":"multi",
+            "fields": [
+              "Symbol"
+            ],
+            "bind": "legend"
+          }
         },
         "mark": "line",
         "encoding": {
           "x": {
             "field": "Date",
-            "type": "temporal"
+            "type": "temporal",
+            "title": "Date"
           },
           "y": {
             "field": "Close",
-            "type": "quantitative"
+            "type": "quantitative",
+            "title": "Price"
+          },
+          "tooltip": [
+            {
+              "field": "Symbol",
+              "type": "nominal"
+            },
+            {
+              "field": "Close",
+              "type": "quantitative"
+            }, 
+            {
+              "field": "Date",
+              "type": "temporal"
+            }
+
+          ],
+          "opacity": {
+            "condition": {
+              "selection": "stock",
+              "value": 1
+            },
+            "value": 0.2
           }
         }
+      },
+      {
+        "encoding": {
+          "x": {
+            "aggregate": {
+              "argmax": "Close"
+            },
+            "field": "Date",
+            "type": "temporal"
+          },
+          "y": {
+            "aggregate": {
+              "argmax": "Close"
+            },
+            "field": "Close",
+            "type": "quantitative"
+          }
+        },
+        "layer": [
+          {
+            "mark": {
+              "type": "text",
+              "baseline": "middle",
+              "fontSize": 12,
+              "dy": -7,
+              "dx": 10
+            },
+            "transform": [
+              {
+                "filter": "datum.Close >= 303.9 && datum.Symbol == 'FB' || datum.Close >= 231.6 && datum.Symbol == 'MSFT' || datum.Close >= 134 && datum.Symbol == 'AAPL'"
+              }
+            ],
+            "encoding": {
+              "text": {
+                "field": "Close",
+                "type": "quantitative",
+                "format": ".1f"
+              }
+            }
+          }
+        ]
       }
+
     ]
-
-
 }
