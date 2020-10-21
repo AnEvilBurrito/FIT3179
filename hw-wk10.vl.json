@@ -86,7 +86,7 @@
             },
             "transform": [
               {
-                "filter": "datum.Close >= 303.9 && datum.Symbol == 'FB' || datum.Close >= 231.6 && datum.Symbol == 'MSFT' || datum.Close >= 134 && datum.Symbol == 'AAPL'"
+                "filter": "datum.Close >= 303.9 && datum.Symbol == 'FB' || datum.Close >= 231.6 && datum.Symbol == 'MSFT' || datum.Close >= 134 && datum.Symbol == 'AAPL' || datum.Close >= 556 && datum.Symbol == 'NFLX' || datum.Close >= 1728 && datum.Symbol == 'GOOG'"
               }
             ],
             "encoding": {
