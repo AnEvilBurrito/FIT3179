@@ -1,6 +1,14 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
     "width": 400,
-    "height": 300
-    
+    "height": 300,
+    "data": {
+      "url": "https://raw.githubusercontent.com/AnEvilBurrito/FIT3179/main/MSFT.csv"
+    },
+    "mark": "line",
+    "encoding": {
+      "x": {"field": "Date", "type": "temporal"},
+      "y": {"field": "Close", "type": "quantitative"}
+    }
+
 }
