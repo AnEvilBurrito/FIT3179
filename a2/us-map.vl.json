@@ -50,6 +50,15 @@
             },
             "layer": [
                 {
+                    "selection": {
+                        "sector": {
+                            "type": "multi",
+                            "fields": [
+                                "Sector"
+                            ],
+                            "bind": "legend"
+                        }
+                    },
                     "mark": {
                         "type": "point",
                         "tooltip": {
@@ -61,17 +70,21 @@
                             "field": "Market Cap",
                             "type": "quantitative",
                             "scale": {
-                                "rangeMax": 500
+                                "rangeMax": 2500
                             }
                         },
                         "color": {
-                            "field": "Market Cap",
-                            "type": "quantitative",
-                            "scale": {
-                                "scheme": "greens"
-                            }
+                            "field": "Sector",
+                            "type": "nominal"
+                        },
+                        "opacity": {
+                            "condition": {
+                                "selection": "sector",
+                                "value": 1
+                            },
+                            "value": 0
                         }
-                    }
+                    }                    
                 }
             ],
             "transform": [

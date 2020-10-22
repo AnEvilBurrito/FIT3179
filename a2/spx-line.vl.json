@@ -1,0 +1,52 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+    "width": 800,
+    "height": 300,
+    "data": {
+        "url": "https://raw.githubusercontent.com/AnEvilBurrito/FIT3179/main/a2/SPX1995TO2020-monthly.csv"
+    },
+    "layer": [
+        {
+            "selection": {
+                "stock": {
+                    "type": "multi",
+                    "fields": [
+                        "Symbol"
+                    ],
+                    "bind": "legend"
+                }
+            },
+            "mark": "line",
+            "encoding": {
+                "x": {
+                    "field": "Date",
+                    "type": "temporal",
+                    "title": "Date"
+                },
+                "y": {
+                    "field": "Close",
+                    "type": "quantitative",
+                    "title": "Price"
+                },
+                "tooltip": [
+                    {
+                        "field": "Close",
+                        "type": "quantitative"
+                    },
+                    {
+                        "field": "Date",
+                        "type": "temporal"
+                    }
+                ],
+                "opacity": {
+                    "condition": {
+                        "selection": "stock",
+                        "value": 1
+                    },
+                    "value": 0.2
+                }
+            }
+        }
+
+    ]
+}
