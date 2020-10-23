@@ -1,0 +1,61 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+    "config": {
+        "view": {
+            "stroke": ""
+        }
+    },
+    "width": 800,
+    "height": 200,
+    "data": {
+        "url": "https://raw.githubusercontent.com/AnEvilBurrito/FIT3179/main/a2/marketcap-custom-top8.csv"
+    },
+    "transform": [
+        {
+            "calculate": "{'1': '💵'}[datum.value]",
+            "as": "emoji"
+        },
+        {
+            "window": [
+                {
+                    "op": "rank",
+                    "as": "rank"
+                }
+            ],
+            "groupby": [
+                "company",
+                "value"
+            ]
+        }
+    ],
+    "mark": {
+        "type": "text",
+        "baseline": "middle"
+    },
+    "encoding": {
+        "x": {
+            "field": "rank",
+            "type": "ordinal",
+            "axis": null
+        },
+        "y": {
+            "field": "value",
+            "type": "nominal",
+            "axis": null,
+            "sort": null
+        },
+        "row": {
+            "field": "company",
+            "header": {
+                "title": ""
+            }
+        },
+        "text": {
+            "field": "emoji",
+            "type": "nominal"
+        },
+        "size": {
+            "value": 65
+        }
+    }
+}
