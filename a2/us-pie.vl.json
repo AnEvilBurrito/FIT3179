@@ -1,0 +1,33 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+    "description": "A simple pie chart with embedded data.",
+    "data": {
+        "url": "https://raw.githubusercontent.com/AnEvilBurrito/FIT3179/main/FinalData.csv"
+    },
+    "transform": [
+        {
+            "aggregate": [
+                {
+                    "op": "sum",
+                    "field": "Market Cap",
+                    "as": "value"
+                }
+            ],
+            "groupby": ["Sector"]
+        }
+    ],
+    "mark": "arc",
+    "encoding": {
+        "theta": {
+            "field": "value",
+            "type": "quantitative"
+        },
+        "color": {
+            "field": "Sector",
+            "type": "nominal"
+        }
+    },
+    "view": {
+        "stroke": null
+    }
+}

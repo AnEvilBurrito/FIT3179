@@ -5,8 +5,8 @@
             "stroke": ""
         }
     },
-    "width": 800,
-    "height": 200,
+    "width": 600,
+    "height": 100,
     "data": {
         "url": "https://raw.githubusercontent.com/AnEvilBurrito/FIT3179/main/a2/marketcap-custom-top8.csv"
     },
@@ -35,8 +35,9 @@
     "encoding": {
         "x": {
             "field": "rank",
-            "type": "ordinal",
-            "axis": null
+            "type": "nominal",
+            "axis": null,
+            "sort": null
         },
         "y": {
             "field": "value",
@@ -46,6 +47,10 @@
         },
         "row": {
             "field": "company",
+            "sort": {
+                "field": "rank",
+                "order": "ascending"
+            },
             "header": {
                 "title": ""
             }
@@ -55,7 +60,7 @@
             "type": "nominal"
         },
         "size": {
-            "value": 65
+            "value": 24
         }
     }
 }
