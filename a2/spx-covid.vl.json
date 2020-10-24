@@ -1,10 +1,26 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-    "width": 800,
-    "height": 300,
+    "width": 300,
+    "height": 200,
     "data": {
-        "url": "https://raw.githubusercontent.com/AnEvilBurrito/FIT3179/main/a2/SPX1995TO2020-monthly.csv"
+        "url": "https://raw.githubusercontent.com/AnEvilBurrito/FIT3179/main/a2/SPX1995TO2020-daily.csv"
     },
+    "transform": [
+        {
+            "filter": {
+                "timeUnit": "year",
+                "field": "Date",
+                "gt": "2018"
+            }
+        },
+        {
+            "filter": {
+                "timeUnit": "month",
+                "field": "Date",
+                "gt": "Jan"
+            }
+        }
+    ],
     "layer": [
         {
             "mark": {
@@ -34,7 +50,10 @@
                 "x": {
                     "field": "Date",
                     "type": "temporal",
-                    "title": "Date"
+                    "title": "Date",
+                    "axis": {
+                        "labelExpr": "[timeFormat(datum.value, '%b'), timeFormat(datum.value, '%m') == '01' ? timeFormat(datum.value, '%Y') : '']"
+                    }
                 },
                 "y": {
                     "field": "Close",
@@ -53,6 +72,5 @@
                 ]
             }
         }
-
     ]
 }

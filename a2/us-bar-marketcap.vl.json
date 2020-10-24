@@ -13,14 +13,20 @@
                     "as": "value"
                 }
             ],
-            "groupby": ["Sector"]
+            "groupby": [
+                "Sector"
+            ]
         }
     ],
-    "mark": "arc",
+    "mark": "bar",
     "encoding": {
-        "theta": {
+        "y": {
             "field": "value",
             "type": "quantitative"
+        },
+        "x": {
+            "field": "Sector",
+            "type": "nominal"
         },
         "color": {
             "field": "Sector",

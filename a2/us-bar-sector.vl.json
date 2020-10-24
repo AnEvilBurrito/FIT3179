@@ -8,26 +8,33 @@
         {
             "aggregate": [
                 {
-                    "op": "sum",
-                    "field": "Market Cap",
+                    "op": "count",
+                    "field": "Sector",
                     "as": "value"
                 }
             ],
-            "groupby": ["Sector"]
+            "groupby": [
+                "Sector"
+            ]
         }
     ],
-    "mark": "arc",
+    "mark": "bar",
     "encoding": {
-        "theta": {
+        "y": {
             "field": "value",
             "type": "quantitative"
+        },
+        "x": {
+            "field": "Sector",
+            "type": "nominal"
         },
         "color": {
             "field": "Sector",
             "type": "nominal",
             "scale": {
                 "scheme": "category20"
-            }
+            },
+            "legend": null
         }
     },
     "view": {
