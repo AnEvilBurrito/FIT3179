@@ -24,7 +24,7 @@
 
     "hconcat": [ 
         {   
-            "title": "Number of Companies in the SP500",
+            "title": "Sector total number of companies",
             "layer": [
                 {
                     "selection": {
@@ -77,7 +77,7 @@
             }
         },
         {   
-            "title": "Market Capitalisation (USD)",
+            "title": "Sector Total Market Capitalisation (USD)",
             "mark": "bar",
             "encoding": {
                 "y": {
