@@ -8,6 +8,94 @@
     "layer": [
         {
             "mark": {
+                "type": "text",
+                "baseline": "middle",
+                "fontSize": 12,
+                "dy": 25,
+                "dx": -270,
+                "fontWeight": "bold"
+            },
+            "data": {
+                "values": [
+                    {
+                        "event": "The Dot-com Bubble"
+                    }
+                ],
+                "format": {
+                    "parse": {
+                        "start": "date:'%Y'",
+                        "end": "date:'%Y'"
+                    }
+                }
+            },
+            "encoding": {
+                "text": {
+                    "field": "event",
+                    "type": "nominal"
+
+                }
+            }
+        },
+        {
+            "mark": {
+                "type": "text",
+                "baseline": "middle",
+                "fontSize": 12,
+                "dy": 35,
+                "dx": 70,
+                "fontWeight": "bold"
+            },
+            "data": {
+                "values": [
+                    {
+                        "event": "Global Financial Crisis"
+                    }
+                ],
+                "format": {
+                    "parse": {
+                        "start": "date:'%Y'",
+                        "end": "date:'%Y'"
+                    }
+                }
+            },
+            "encoding": {
+                "text": {
+                    "field": "event",
+                    "type": "nominal"
+                }
+            }
+        },
+        {
+            "mark": {
+                "type": "text",
+                "baseline": "middle",
+                "fontSize": 12,
+                "dy": -125,
+                "dx": 420,
+                "fontWeight": "bold"
+            },
+            "data": {
+                "values": [
+                    {
+                        "event": "Coronavirus Crash"
+                    }
+                ],
+                "format": {
+                    "parse": {
+                        "start": "date:'%Y'",
+                        "end": "date:'%Y'"
+                    }
+                }
+            },
+            "encoding": {
+                "text": {
+                    "field": "event",
+                    "type": "nominal"
+                }
+            }
+        },
+        {
+            "mark": {
                 "type": "area",
                 "line": {
                     "color": "darkgreen"
@@ -63,7 +151,10 @@
         },
         "legend": {
             "labelFont": "georgia",
-            "titleFont": "georgia"
+            "titleFont": "georgia",
+            "titleFontSize": 16,
+            "rowPadding": 12,
+            "titlePadding": 16
         },
         "header": {
             "labelFont": "georgia",
