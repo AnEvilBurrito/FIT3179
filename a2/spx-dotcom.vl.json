@@ -22,7 +22,8 @@
         }
     ],
     "layer": [
-        {
+        {   
+            "title": "The Dot-com bubble 2000s",
             "mark": {
                 "type": "area",
                 "line": {
@@ -50,10 +51,7 @@
                 "x": {
                     "field": "Date",
                     "type": "temporal",
-                    "title": null,
-                    "axis": {
-                        "labelExpr": "[timeFormat(datum.value, '%b'), timeFormat(datum.value, '%m') == '01' ? timeFormat(datum.value, '%Y') : '']"
-                    }
+                    "title": null
                 },
                 "y": {
                     "field": "Close",
@@ -72,5 +70,30 @@
                 ]
             }
         }
-    ]
+    ],
+    "config": {
+        "axis": {
+            "labelFont": "georgia",
+            "titleFont": "georgia",
+            "labelFontSize": 12
+        },
+        "legend": {
+            "labelFont": "georgia",
+            "titleFont": "georgia"
+        },
+        "header": {
+            "labelFont": "georgia",
+            "titleFont": "georgia"
+        },
+        "mark": {
+            "font": "georgia"
+        },
+        "title": {
+            "font": "georgia",
+            "subtitleFont": "georgia"
+        },
+        "view": {
+            "stroke": ""
+        }
+    }
 }

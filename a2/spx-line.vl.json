@@ -1,6 +1,6 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
-    "width": 900,
+    "width": 950,
     "height": 300,
     "data": {
         "url": "https://raw.githubusercontent.com/AnEvilBurrito/FIT3179/main/a2/SPX1995TO2020-monthly.csv"
@@ -34,12 +34,12 @@
                 "x": {
                     "field": "Date",
                     "type": "temporal",
-                    "title": "Date"
+                    "title": "Date (Year)"
                 },
                 "y": {
                     "field": "Close",
                     "type": "quantitative",
-                    "title": "Price"
+                    "title": "Price (USD)"
                 },
                 "tooltip": [
                     {
@@ -54,5 +54,30 @@
             }
         }
 
-    ]
+    ],
+    "config": {
+        "axis": {
+            "labelFont": "georgia",
+            "titleFont": "georgia",
+            "labelFontSize": 12
+        },
+        "legend": {
+            "labelFont": "georgia",
+            "titleFont": "georgia"
+        },
+        "header": {
+            "labelFont": "georgia",
+            "titleFont": "georgia"
+        },
+        "mark": {
+            "font": "georgia"
+        },
+        "title": {
+            "font": "georgia",
+            "subtitleFont": "georgia"
+        },
+        "view": {
+            "stroke": ""
+        }
+    }
 }

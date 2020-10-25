@@ -22,7 +22,8 @@
         }
     ],
     "layer": [
-        {
+        {   
+            "title": "The GFC 2008",
             "mark": {
                 "type": "area",
                 "line": {
@@ -72,5 +73,30 @@
                 ]
             }
         }
-    ]
+    ],
+    "config": {
+        "axis": {
+            "labelFont": "georgia",
+            "titleFont": "georgia",
+            "labelFontSize": 12
+        },
+        "legend": {
+            "labelFont": "georgia",
+            "titleFont": "georgia"
+        },
+        "header": {
+            "labelFont": "georgia",
+            "titleFont": "georgia"
+        },
+        "mark": {
+            "font": "georgia"
+        },
+        "title": {
+            "font": "georgia",
+            "subtitleFont": "georgia"
+        },
+        "view": {
+            "stroke": ""
+        }
+    }
 }

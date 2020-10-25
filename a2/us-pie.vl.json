@@ -112,8 +112,32 @@
 
     ],
 
-
-    "view": {
-        "stroke": null
+    "config": {
+        "axis": {
+            "labelFont": "georgia",
+            "titleFont": "georgia",
+            "labelFontSize": 12
+        },
+        "legend": {
+            "labelFont": "georgia",
+            "titleFont": "georgia",
+            "titleFontSize": 16,
+            "rowPadding": 5,
+            "titlePadding": 10
+        },
+        "header": {
+            "labelFont": "georgia",
+            "titleFont": "georgia"
+        },
+        "mark": {
+            "font": "georgia"
+        },
+        "title": {
+            "font": "georgia",
+            "subtitleFont": "georgia"
+        },
+        "view": {
+            "stroke": ""
+        }
     }
 }
