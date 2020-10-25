@@ -15,6 +15,7 @@
     <!-- Google font -->
     <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@400;700;900&display=swap"
         rel="stylesheet">
+    <link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/grids-responsive-min.css" />
 
     <!-- custom style -->
     <style>
@@ -24,18 +25,28 @@
 
         h1 {
             font-weight: 900;
+            padding-left: 20px;
+        }
+
+        h2 {
+            padding-left: 20px;
         }
 
         body {
             background-color: lightgray;
         }
 
+        p {
+            color: gray;
+            padding-left: 20px;
+        }
+
         .page {
             width: 1000px;
             background-color: white;
             margin: auto;
-            padding: 50px;
-            padding-top: 35px;
+            padding: 0px;
+            padding-top: 0px;
         }
 
         .vis-container {
@@ -63,12 +74,24 @@
             font-size: 14px;
         }
 
+        img {
+            padding: 0;
+        }
+
     </style>
 </head>
 
 <body>
 
     <div class="page">
+
+        <!-- pure grid group -->
+        <div class="pure-g">
+            <div class="pure-u-1">
+                <div><img class="pure-img" src="assets/stock-market-3.jpg" /></div> 
+            </div>
+        </div>
+        <!-- end pure grid group -->
 
         <!-- pure grid group -->
         <div class="pure-g">
@@ -160,17 +183,17 @@
 
         <!-- pure grid group -->
         <div class="pure-g">
-            <div class="pure-u-4-5">
-                <div id="pieSector" class="vis-container" style="text-align:center"></div>
-            </div>
             <div class="pure-u-1-5">
                 <h2>What about each sectors?</h2>
                 <p>
-                    The bars on the right shows the market capitalisation of <b><span style="color: pink;">Information 
-                    Technology companies exceeds 8 trillion USD</span></b> in the SP500 and is the largest sector in the 
+                    The bars on the right shows the market capitalisation of <b><span style="color: pink;">Information
+                    Technology companies exceeds 8 trillion USD</span></b> in the SP500 and is the largest sector in the
                     SP500. The pie chart on the left shows the amount of companies in each sector across the 500 companies in
                     the S&P Index.
                 </p>
+            </div>
+            <div class="pure-u-4-5">
+                <div id="pieSector" class="vis-container" style="text-align:center"></div>
             </div>
             
         </div>
