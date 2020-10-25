@@ -8,8 +8,8 @@
         {
             "aggregate": [
                 {
-                    "op": "sum",
-                    "field": "Market Cap",
+                    "op": "count",
+                    "field": "Sector",
                     "as": "value"
                 }
             ],
@@ -27,7 +27,8 @@
             "type": "nominal",
             "scale": {
                 "scheme": "category20"
-            }
+            },
+            "legend": null
         }
     },
     "view": {
