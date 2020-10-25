@@ -10,27 +10,109 @@
                 {
                     "op": "count",
                     "field": "Sector",
-                    "as": "value"
+                    "as": "companyCount"
+                },
+                {
+                    "op": "sum",
+                    "field": "Market Cap",
+                    "as": "marketValue"
                 }
             ],
             "groupby": ["Sector"]
         }
     ],
-    "mark": "arc",
-    "encoding": {
-        "theta": {
-            "field": "value",
-            "type": "quantitative"
+
+    "hconcat": [ 
+        {   
+            "title": "Number of Companies in the SP500",
+            "layer": [
+                {
+                    "selection": {
+                        "sector": {
+                            "type": "multi",
+                            "fields": [
+                                "Sector"
+                            ],
+                            "bind": "legend"
+                        }
+                    },
+                    "mark": {
+                        "type": "arc",
+                        "outerRadius": 80
+                    }
+                },
+                {
+                    "mark": {
+                        "type": "text",
+                        "radius": 90
+                    },
+                    "encoding": {
+                        "text": {
+                            "field": "companyCount",
+                            "type": "nominal"
+                        }
+                    }
+                }
+            ],
+            "encoding": {
+                "theta": {
+                    "field": "companyCount",
+                    "type": "quantitative",
+                    "stack": true
+                },
+                "color": {
+                    "field": "Sector",
+                    "type": "nominal",
+                    "scale": {
+                        "scheme": "category20"
+                    }
+                },
+                "opacity": {
+                    "condition": {
+                        "selection": "sector",
+                        "value": 1
+                    },
+                    "value": 0.2
+                }
+            }
         },
-        "color": {
-            "field": "Sector",
-            "type": "nominal",
-            "scale": {
-                "scheme": "category20"
-            },
-            "legend": null
+        {   
+            "title": "Market Capitalisation (USD)",
+            "mark": "bar",
+            "encoding": {
+                "y": {
+                    "field": "marketValue",
+                    "type": "quantitative",
+                    "title": null
+                },
+                "x": {
+                    "field": "Sector",
+                    "type": "nominal",
+                    "title": null, 
+                    "axis": {
+                        "labels": false
+                    }
+                },
+                "color": {
+                    "field": "Sector",
+                    "type": "nominal",
+                    "scale": {
+                        "scheme": "category20"
+                    }
+                },
+                "opacity": {
+                    "condition": {
+                        "selection": "sector",
+                        "value": 1
+                    },
+                    "value": 0.2
+                }
+            }
         }
-    },
+
+    ],
+
+
     "view": {
         "stroke": null
     }
