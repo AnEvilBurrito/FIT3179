@@ -136,7 +136,7 @@
         "axis": {
             "labelFont": "georgia",
             "titleFont": "georgia",
-            "labelFontSize": 12
+            "labelFontSize": 10
         },
         "legend": {
             "labelFont": "georgia",
