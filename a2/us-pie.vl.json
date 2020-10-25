@@ -73,7 +73,17 @@
                         "value": 1
                     },
                     "value": 0.2
-                }
+                },
+                "tooltip": [
+                    {
+                        "field": "companyCount",
+                        "type": "quantitative"
+                    },
+                    {
+                        "field": "Sector",
+                        "type": "nominal"
+                    }
+                ]
             }
         },
         {   
@@ -106,7 +116,17 @@
                         "value": 1
                     },
                     "value": 0.2
-                }
+                },
+                "tooltip": [
+                    {
+                        "field": "marketValue",
+                        "type": "quantitative"
+                    },
+                    {
+                        "field": "Sector",
+                        "type": "nominal"
+                    }
+                ]
             }
         }
 
