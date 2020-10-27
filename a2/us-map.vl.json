@@ -86,7 +86,21 @@
                                 "value": 1
                             },
                             "value": 0
-                        }
+                        },
+                        "tooltip": [
+                            {
+                                "field": "Symbol",
+                                "type": "nominal"
+                            },
+                            {
+                                "field": "Sector",
+                                "type": "nominal"
+                            },
+                            {
+                                "field": "Market Cap",
+                                "type": "quantitative"
+                            }
+                        ]
                     }                    
                 }
             ],
