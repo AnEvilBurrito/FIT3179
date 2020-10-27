@@ -19,12 +19,27 @@
                 }
             ],
             "groupby": ["Sector"]
+        },
+        {
+            "window": [{
+                "op": "sum",
+                "field": "companyCount",
+                "as": "totalCount"
+            }],
+            "frame": [
+                null,
+                null
+            ]
+        },
+        {
+            "calculate": "datum.companyCount/datum.totalCount * 100",
+            "as": "perc"
         }
     ],
 
     "hconcat": [ 
         {   
-            "title": "Sector total number of companies",
+            "title": "Sector percentage (%) of companies",
             "layer": [
                 {
                     "selection": {
@@ -48,8 +63,9 @@
                     },
                     "encoding": {
                         "text": {
-                            "field": "companyCount",
-                            "type": "nominal"
+                            "field": "perc",
+                            "type": "nominal",
+                            "format": ".0f"
                         }
                     }
                 }
