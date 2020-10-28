@@ -64,7 +64,8 @@
                 "tooltip": [
                     {
                         "field": "Close",
-                        "type": "quantitative"
+                        "type": "quantitative",
+                        "format": ".2f"
                     },
                     {
                         "field": "Date",
@@ -76,24 +77,24 @@
     ],
     "config": {
         "axis": {
-            "labelFont": "georgia",
-            "titleFont": "georgia",
+            "labelFont": "arial",
+            "titleFont": "arial",
             "labelFontSize": 12
         },
         "legend": {
-            "labelFont": "georgia",
-            "titleFont": "georgia"
+            "labelFont": "arial",
+            "titleFont": "arial"
         },
         "header": {
-            "labelFont": "georgia",
-            "titleFont": "georgia"
+            "labelFont": "arial",
+            "titleFont": "arial"
         },
         "mark": {
-            "font": "georgia"
+            "font": "arial"
         },
         "title": {
-            "font": "georgia",
-            "subtitleFont": "georgia"
+            "font": "arial",
+            "subtitleFont": "arial"
         },
         "view": {
             "stroke": ""

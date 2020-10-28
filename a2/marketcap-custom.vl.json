@@ -61,24 +61,24 @@
     },
     "config": {
         "axis": {
-            "labelFont": "georgia",
-            "titleFont": "georgia"
+            "labelFont": "arial",
+            "titleFont": "arial"
         },
         "legend": {
-            "labelFont": "georgia",
-            "titleFont": "georgia"
+            "labelFont": "arial",
+            "titleFont": "arial"
         },
         "header": {
-            "labelFont": "georgia",
-            "titleFont": "georgia",
+            "labelFont": "arial",
+            "titleFont": "arial",
             "labelFontSize": 10
         },
         "mark": {
-            "font": "georgia"
+            "font": "arial"
         },
         "title": {
-            "font": "georgia",
-            "subtitleFont": "georgia"
+            "font": "arial",
+            "subtitleFont": "arial"
         },
         "view": {
             "stroke": ""

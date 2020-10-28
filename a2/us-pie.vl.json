@@ -32,14 +32,22 @@
             ]
         },
         {
-            "calculate": "datum.companyCount/datum.totalCount * 100",
+            "calculate": "toString(datum.companyCount/datum.totalCount * 100)",
+            "as": "rawPerc"
+        },
+        {
+            "calculate": "substring(datum.rawPerc, 0, indexof(datum.rawPerc, '.'))",
+            "as": "processedPerc"
+        },
+        {
+            "calculate": "pad(datum.processedPerc, indexof(datum.rawPerc, '.')+1, '%')",
             "as": "perc"
         }
     ],
 
     "hconcat": [ 
         {   
-            "title": "Sector percentage (%) of companies",
+            "title": "Sector percentage of companies",
             "layer": [
                 {
                     "selection": {
@@ -64,8 +72,7 @@
                     "encoding": {
                         "text": {
                             "field": "perc",
-                            "type": "nominal",
-                            "format": ".0f"
+                            "type": "nominal"
                         }
                     }
                 }
@@ -155,27 +162,27 @@
 
     "config": {
         "axis": {
-            "labelFont": "georgia",
-            "titleFont": "georgia",
+            "labelFont": "arial",
+            "titleFont": "arial",
             "labelFontSize": 10
         },
         "legend": {
-            "labelFont": "georgia",
-            "titleFont": "georgia",
+            "labelFont": "arial",
+            "titleFont": "arial",
             "titleFontSize": 16,
             "rowPadding": 5,
             "titlePadding": 10
         },
         "header": {
-            "labelFont": "georgia",
-            "titleFont": "georgia"
+            "labelFont": "arial",
+            "titleFont": "arial"
         },
         "mark": {
-            "font": "georgia"
+            "font": "arial"
         },
         "title": {
-            "font": "georgia",
-            "subtitleFont": "georgia"
+            "font": "arial",
+            "subtitleFont": "arial"
         },
         "view": {
             "stroke": ""
