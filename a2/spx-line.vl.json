@@ -14,7 +14,7 @@
                 "dy": 25,
                 "dx": -270,
                 "fontWeight": "bold",
-                "font": "georgia"
+                "font": "arial"
             },
             "data": {
                 "values": [
@@ -45,7 +45,7 @@
                 "dy": 35,
                 "dx": 70,
                 "fontWeight": "bold",
-                "font": "georgia"
+                "font": "arial"
             },
             "data": {
                 "values": [
@@ -75,7 +75,7 @@
                 "dy": -125,
                 "dx": 420,
                 "fontWeight": "bold",
-                "font": "georgia"
+                "font": "arial"
             },
             "data": {
                 "values": [
