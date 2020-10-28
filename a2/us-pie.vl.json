@@ -116,14 +116,18 @@
                 "y": {
                     "field": "marketValue",
                     "type": "quantitative",
-                    "title": null
+                    "title": null,
+                    "axis": {
+                        "format": ".2e"
+                    }
                 },
                 "x": {
                     "field": "Sector",
                     "type": "nominal",
                     "title": null, 
                     "axis": {
-                        "labels": false
+                        "labels": false,
+                        "ticks": false
                     },
                     "sort": {
                         "field": "marketValue",
@@ -148,7 +152,8 @@
                 "tooltip": [
                     {
                         "field": "marketValue",
-                        "type": "quantitative"
+                        "type": "quantitative",
+                        "format": ".2e"
                     },
                     {
                         "field": "Sector",
